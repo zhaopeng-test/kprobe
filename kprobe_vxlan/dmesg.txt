@@ -1,0 +1,1566 @@
+[5612051.610749] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612051.610756] __skb_get_hash name:handler174 pid:11720, sk ffffa0cfa4fde500
+
+[5612051.610767] CPU: 19 PID: 11720 Comm: handler174 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612051.610770] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612051.610773] Call Trace:
+[5612051.610788]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612051.610795]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612051.610803]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612051.610811]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612051.610817]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612051.610828]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612051.610834]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612051.610840]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612051.610846]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612051.610852]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612051.610858]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612051.610868]  [<ffffffffc0b1fedd>] ? reserve_sfa_size+0x2d/0xe0 [openvswitch]
+[5612051.610901]  [<ffffffffc0b0e7ba>] vxlan_xmit+0x64a/0xdd2 [vxlan]
+[5612051.610908]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612051.610916]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612051.610922]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612051.610928]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612051.610938]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5612051.610945]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5612051.610952]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5612051.610960]  [<ffffffffc0b1fe69>] ? nla_alloc_flow_actions+0x39/0x80 [openvswitch]
+[5612051.610968]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5612051.610975]  [<ffffffffc0b1acdb>] ovs_packet_cmd_execute+0x2ab/0x2e0 [openvswitch]
+[5612051.610984]  [<ffffffffb2494228>] genl_family_rcv_msg+0x208/0x430
+[5612051.610991]  [<ffffffffb24944ab>] genl_rcv_msg+0x5b/0xc0
+[5612051.610996]  [<ffffffffb2494450>] ? genl_family_rcv_msg+0x430/0x430
+[5612051.611002]  [<ffffffffb249249b>] netlink_rcv_skb+0xab/0xc0
+[5612051.611007]  [<ffffffffb24929d8>] genl_rcv+0x28/0x40
+[5612051.611012]  [<ffffffffb2491e20>] netlink_unicast+0x170/0x210
+[5612051.611018]  [<ffffffffb24921c8>] netlink_sendmsg+0x308/0x420
+[5612051.611023]  [<ffffffffb24343a6>] sock_sendmsg+0xb6/0xf0
+[5612051.611031]  [<ffffffffb25154bb>] ? unix_dgram_sendmsg+0x3cb/0x770
+[5612051.611037]  [<ffffffffb2435269>] ___sys_sendmsg+0x3e9/0x400
+[5612051.611043]  [<ffffffffb2434b2e>] ? SYSC_sendto+0x17e/0x1c0
+[5612051.611049]  [<ffffffffb2436921>] __sys_sendmsg+0x51/0x90
+[5612051.611054]  [<ffffffffb2436972>] SyS_sendmsg+0x12/0x20
+[5612051.611061]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5612051.611068]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612051.611073] 
+
+ src: 3.3.3.1, dst: 10.10.10.3
+[5612051.611079] 
+show saddr : 1030303, daddr 30a0a0a, hash 0
+[5612051.611083] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612051.611710] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612051.611718] __skb_get_hash name:ksoftirqd/23 pid:126, sk ffffa0d0163a2500
+
+[5612051.611731] CPU: 23 PID: 126 Comm: ksoftirqd/23 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612051.611736] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612051.611740] Call Trace:
+[5612051.611754]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612051.611764]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612051.611773]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612051.611783]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612051.611792]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612051.611804]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612051.611809]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612051.611815]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612051.611821]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612051.611826]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612051.611835]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612051.611843]  [<ffffffffc0b1b88f>] ovs_dp_process_packet+0xcf/0x120 [openvswitch]
+[5612051.611856]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5612051.611870]  [<ffffffffc0b26674>] ? ovs_ct_update_key+0xc4/0x150 [openvswitch]
+[5612051.611883]  [<ffffffffc0b25233>] ? ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5612051.611894]  [<ffffffffb1ee7cb8>] ? update_group_power+0x28/0x280
+[5612051.611906]  [<ffffffffb2185de5>] ? cpumask_next_and+0x35/0x50
+[5612051.611913]  [<ffffffffb1ee8054>] ? find_busiest_group+0x144/0x990
+[5612051.611924]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612051.611937]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5612051.611947]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5612051.611960]  [<ffffffffc0b25c00>] ? vport_netdev_free+0x30/0x30 [openvswitch]
+[5612051.611969]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612051.611978]  [<ffffffffb2454fa0>] netif_receive_skb_internal+0x40/0xc0
+[5612051.611986]  [<ffffffffb2455c28>] napi_gro_receive+0xd8/0x100
+[5612051.611997]  [<ffffffffc0b08187>] gro_cell_poll+0x57/0x80 [vxlan]
+[5612051.612005]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612051.612016]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612051.612022]  [<ffffffffb1ea4d58>] run_ksoftirqd+0x38/0x50
+[5612051.612031]  [<ffffffffb1ece674>] smpboot_thread_fn+0x144/0x1a0
+[5612051.612039]  [<ffffffffb1ece530>] ? lg_double_unlock+0x40/0x40
+[5612051.612045]  [<ffffffffb1ec5c21>] kthread+0xd1/0xe0
+[5612051.612051]  [<ffffffffb1ec5b50>] ? insert_kthread_work+0x40/0x40
+[5612051.612058]  [<ffffffffb2593df7>] ret_from_fork_nospec_begin+0x21/0x21
+[5612051.612064]  [<ffffffffb1ec5b50>] ? insert_kthread_work+0x40/0x40
+[5612051.612069] 
+
+ src: 192.168.13.4, dst: 2.2.2.2
+[5612051.612075] 
+show saddr : 40da8c0, daddr 2020202, hash 0
+[5612051.612080] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612051.612901] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612051.612907] __skb_get_hash name:handler178 pid:11724, sk ffffa0cf907e4a00
+
+[5612051.612916] CPU: 0 PID: 11724 Comm: handler178 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612051.612920] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612051.612923] Call Trace:
+[5612051.612928]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612051.612945]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612051.612954]  [<ffffffffb1eaeb7c>] ? mod_timer+0x10c/0x230
+[5612051.612960]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612051.612966]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612051.612972]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612051.612983]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612051.612989]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612051.612995]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612051.613001]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612051.613006]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612051.613015]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612051.613025]  [<ffffffffc0b1b88f>] ovs_dp_process_packet+0xcf/0x120 [openvswitch]
+[5612051.613033]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5612051.613041]  [<ffffffffb24c581b>] ? tcp_v4_do_rcv+0x17b/0x350
+[5612051.613047]  [<ffffffffb24c7011>] ? tcp_v4_rcv+0x7f1/0x9e0
+[5612051.613053]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612051.613061]  [<ffffffffb249f8c0>] ? ip_rcv+0x2c0/0x420
+[5612051.613069]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5612051.613075]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5612051.613083]  [<ffffffffc0b25c00>] ? vport_netdev_free+0x30/0x30 [openvswitch]
+[5612051.613089]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612051.613096]  [<ffffffffb2455eee>] process_backlog+0xae/0x180
+[5612051.613102]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612051.613109]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612051.613114]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612051.613117]  <EOI>  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612051.613132]  [<ffffffffb1ea3feb>] __local_bh_enable_ip+0x9b/0xb0
+[5612051.613137]  [<ffffffffb1ea4017>] local_bh_enable+0x17/0x20
+[5612051.613145]  [<ffffffffc0b1ace2>] ovs_packet_cmd_execute+0x2b2/0x2e0 [openvswitch]
+[5612051.613151]  [<ffffffffb2494228>] genl_family_rcv_msg+0x208/0x430
+[5612051.613159]  [<ffffffffb243e13d>] ? __alloc_skb+0x8d/0x2d0
+[5612051.613167]  [<ffffffffb243e10d>] ? __alloc_skb+0x5d/0x2d0
+[5612051.613172]  [<ffffffffb24944ab>] genl_rcv_msg+0x5b/0xc0
+[5612051.613178]  [<ffffffffb2494450>] ? genl_family_rcv_msg+0x430/0x430
+[5612051.613183]  [<ffffffffb249249b>] netlink_rcv_skb+0xab/0xc0
+[5612051.613188]  [<ffffffffb24929d8>] genl_rcv+0x28/0x40
+[5612051.613194]  [<ffffffffb2491e20>] netlink_unicast+0x170/0x210
+[5612051.613199]  [<ffffffffb24921c8>] netlink_sendmsg+0x308/0x420
+[5612051.613204]  [<ffffffffb24343a6>] sock_sendmsg+0xb6/0xf0
+[5612051.613211]  [<ffffffffb25154bb>] ? unix_dgram_sendmsg+0x3cb/0x770
+[5612051.613216]  [<ffffffffb2435269>] ___sys_sendmsg+0x3e9/0x400
+[5612051.613225]  [<ffffffffb1ff339e>] ? do_numa_page+0x1be/0x250
+[5612051.613230]  [<ffffffffb1ff5ceb>] ? handle_mm_fault+0xadb/0xfb0
+[5612051.613237]  [<ffffffffb209cb59>] ? ep_scan_ready_list.isra.7+0x1b9/0x1f0
+[5612051.613257]  [<ffffffffb2436921>] __sys_sendmsg+0x51/0x90
+[5612051.613262]  [<ffffffffb2436972>] SyS_sendmsg+0x12/0x20
+[5612051.613268]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5612051.613276]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612051.613281] 
+
+ src: 2.2.2.2, dst: 192.168.13.4
+[5612051.613286] 
+show saddr : 2020202, daddr 40da8c0, hash 0
+[5612051.613291] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612051.613716] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612051.613721] __skb_get_hash name:handler178 pid:11724, sk ffffa0cf893dc000
+
+[5612051.613730] CPU: 0 PID: 11724 Comm: handler178 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612051.613735] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612051.613738] Call Trace:
+[5612051.613748]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612051.613754]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612051.613760]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612051.613766]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612051.613772]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612051.613780]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612051.613786]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612051.613791]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612051.613797]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612051.613803]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612051.613811]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612051.613819]  [<ffffffffc0b1fedd>] ? reserve_sfa_size+0x2d/0xe0 [openvswitch]
+[5612051.613838]  [<ffffffffc0b0e7ba>] vxlan_xmit+0x64a/0xdd2 [vxlan]
+[5612051.613843]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612051.613849]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612051.613855]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612051.613861]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612051.613869]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5612051.613877]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5612051.613886]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5612051.613894]  [<ffffffffc0b1fe69>] ? nla_alloc_flow_actions+0x39/0x80 [openvswitch]
+[5612051.613901]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5612051.613908]  [<ffffffffc0b1acdb>] ovs_packet_cmd_execute+0x2ab/0x2e0 [openvswitch]
+[5612051.613915]  [<ffffffffb2494228>] genl_family_rcv_msg+0x208/0x430
+[5612051.613922]  [<ffffffffb243e13d>] ? __alloc_skb+0x8d/0x2d0
+[5612051.613928]  [<ffffffffb24944ab>] genl_rcv_msg+0x5b/0xc0
+[5612051.613933]  [<ffffffffb2494450>] ? genl_family_rcv_msg+0x430/0x430
+[5612051.613938]  [<ffffffffb249249b>] netlink_rcv_skb+0xab/0xc0
+[5612051.613943]  [<ffffffffb24929d8>] genl_rcv+0x28/0x40
+[5612051.613949]  [<ffffffffb2491e20>] netlink_unicast+0x170/0x210
+[5612051.613956]  [<ffffffffb24921c8>] netlink_sendmsg+0x308/0x420
+[5612051.613962]  [<ffffffffb24343a6>] sock_sendmsg+0xb6/0xf0
+[5612051.613968]  [<ffffffffb25154bb>] ? unix_dgram_sendmsg+0x3cb/0x770
+[5612051.613974]  [<ffffffffb2435269>] ___sys_sendmsg+0x3e9/0x400
+[5612051.613981]  [<ffffffffb209cb59>] ? ep_scan_ready_list.isra.7+0x1b9/0x1f0
+[5612051.613987]  [<ffffffffb209ccd3>] ? ep_poll+0x123/0x360
+[5612051.613992]  [<ffffffffb2436921>] __sys_sendmsg+0x51/0x90
+[5612051.613998]  [<ffffffffb2436972>] SyS_sendmsg+0x12/0x20
+[5612051.614004]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5612051.614010]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612051.614016] 
+
+ src: 2.2.2.2, dst: 192.168.13.4
+[5612051.614022] 
+show saddr : 2020202, daddr 40da8c0, hash 0
+[5612051.614028] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612051.614224] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612051.614244] __skb_get_hash name:swapper/19 pid:0, sk ffffa0cfa4fdeb00
+
+[5612051.614253] CPU: 19 PID: 0 Comm: swapper/19 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612051.614256] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612051.614261] Call Trace:
+[5612051.614266]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612051.614279]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612051.614289]  [<ffffffffb1f100d0>] ? tick_sched_do_timer+0x50/0x50
+[5612051.614295]  [<ffffffffb1eaef8d>] ? update_process_times+0x6d/0x80
+[5612051.614301]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612051.614307]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612051.614326]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612051.614337]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612051.614343]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612051.614350]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612051.614357]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612051.614362]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612051.614370]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612051.614378]  [<ffffffffc0b1b88f>] ovs_dp_process_packet+0xcf/0x120 [openvswitch]
+[5612051.614387]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5612051.614392]  [<ffffffffb249f28d>] ? ip_local_deliver_finish+0xbd/0x200
+[5612051.614398]  [<ffffffffb249f580>] ? ip_local_deliver+0x60/0xe0
+[5612051.614403]  [<ffffffffb249f1d0>] ? ip_rcv_finish+0x370/0x370
+[5612051.614407]  [<ffffffffb249eef0>] ? ip_rcv_finish+0x90/0x370
+[5612051.614412]  [<ffffffffb249f8c0>] ? ip_rcv+0x2c0/0x420
+[5612051.614417]  [<ffffffffb249ee60>] ? inet_del_offload+0x40/0x40
+[5612051.614424]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612051.614431]  [<ffffffffb2454f18>] ? __netif_receive_skb+0x18/0x60
+[5612051.614440]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5612051.614445]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5612051.614453]  [<ffffffffc0b25c00>] ? vport_netdev_free+0x30/0x30 [openvswitch]
+[5612051.614460]  [<ffffffffb24cc100>] ? tcp4_gro_receive+0x80/0x1a0
+[5612051.614465]  [<ffffffffb1f078df>] ? __getnstimeofday64+0x3f/0xd0
+[5612051.614470]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612051.614476]  [<ffffffffb2454fa0>] netif_receive_skb_internal+0x40/0xc0
+[5612051.614481]  [<ffffffffb2455c28>] napi_gro_receive+0xd8/0x100
+[5612051.614488]  [<ffffffffc0b08187>] gro_cell_poll+0x57/0x80 [vxlan]
+[5612051.614493]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612051.614500]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612051.614506]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612051.614514]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612051.614520]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5612051.614525]  [<ffffffffb2598936>] do_IRQ+0x56/0xf0
+[5612051.614532]  [<ffffffffb258a36a>] common_interrupt+0x16a/0x16a
+[5612051.614535]  <EOI>  [<ffffffffb23c7054>] ? cpuidle_enter_state+0x54/0xd0
+[5612051.614546]  [<ffffffffb23c71ae>] cpuidle_idle_call+0xde/0x230
+[5612051.614552]  [<ffffffffb1e37c8e>] arch_cpu_idle+0xe/0xc0
+[5612051.614558]  [<ffffffffb1f011ea>] cpu_startup_entry+0x14a/0x1e0
+[5612051.614565]  [<ffffffffb1e5a7f7>] start_secondary+0x1f7/0x270
+[5612051.614572]  [<ffffffffb1e000d5>] start_cpu+0x5/0x14
+[5612051.614578] 
+
+ src: 10.10.10.3, dst: 3.3.3.1
+[5612051.614586] 
+show saddr : 30a0a0a, daddr 1030303, hash 0
+[5612051.614591] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612053.013216] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612053.013222] __skb_get_hash name:swapper/0 pid:0, sk ffffa0d021f8fc00
+
+[5612053.013232] CPU: 0 PID: 0 Comm: swapper/0 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612053.013236] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612053.013239] Call Trace:
+[5612053.013243]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612053.013258]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612053.013266]  [<ffffffffb2190a12>] ? put_dec+0x72/0x90
+[5612053.013272]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612053.013278]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612053.013284]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612053.013293]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612053.013298]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612053.013304]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612053.013310]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612053.013315]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612053.013322]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612053.013327]  [<ffffffffb1ed2fd2>] ? __wake_up_common+0x82/0x120
+[5612053.013336]  [<ffffffffb1edee00>] ? vtime_init_idle+0x50/0x60
+[5612053.013343]  [<ffffffffb1ec88f1>] ? run_posix_cpu_timers+0x51/0x830
+[5612053.013349]  [<ffffffffb1ee5aac>] ? task_tick_fair+0x4cc/0x670
+[5612053.013365]  [<ffffffffc0b0e7ba>] vxlan_xmit+0x64a/0xdd2 [vxlan]
+[5612053.013371]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612053.013377]  [<ffffffffb1eaef8d>] ? update_process_times+0x6d/0x80
+[5612053.013383]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612053.013389]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612053.013395]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612053.013404]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5612053.013412]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5612053.013419]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5612053.013424]  [<ffffffffb24533fe>] ? dev_forward_skb+0x1e/0x30
+[5612053.013429]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5612053.013437]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5612053.013444]  [<ffffffffc0b1b844>] ovs_dp_process_packet+0x84/0x120 [openvswitch]
+[5612053.013453]  [<ffffffffc0b26674>] ? ovs_ct_update_key+0xc4/0x150 [openvswitch]
+[5612053.013461]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5612053.013466]  [<ffffffffb1ee7cb8>] ? update_group_power+0x28/0x280
+[5612053.013473]  [<ffffffffb2185de5>] ? cpumask_next_and+0x35/0x50
+[5612053.013478]  [<ffffffffb1ee8054>] ? find_busiest_group+0x144/0x990
+[5612053.013484]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612053.013489]  [<ffffffffb1ee8a43>] ? load_balance+0x1a3/0xa10
+[5612053.013497]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5612053.013503]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5612053.013510]  [<ffffffffc0b25c00>] ? vport_netdev_free+0x30/0x30 [openvswitch]
+[5612053.013516]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612053.013521]  [<ffffffffb2455eee>] process_backlog+0xae/0x180
+[5612053.013527]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612053.013533]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612053.013539]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612053.013545]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612053.013550]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5612053.013556]  [<ffffffffb2598a88>] smp_apic_timer_interrupt+0x48/0x60
+[5612053.013562]  [<ffffffffb2594fba>] apic_timer_interrupt+0x16a/0x170
+[5612053.013565]  <EOI>  [<ffffffffb23c7054>] ? cpuidle_enter_state+0x54/0xd0
+[5612053.013576]  [<ffffffffb23c704d>] ? cpuidle_enter_state+0x4d/0xd0
+[5612053.013581]  [<ffffffffb23c71ae>] cpuidle_idle_call+0xde/0x230
+[5612053.013587]  [<ffffffffb1e37c8e>] arch_cpu_idle+0xe/0xc0
+[5612053.013593]  [<ffffffffb1f011ea>] cpu_startup_entry+0x14a/0x1e0
+[5612053.013601]  [<ffffffffb256f9c7>] rest_init+0x77/0x80
+[5612053.013608]  [<ffffffffb2b8b1cf>] start_kernel+0x44b/0x46c
+[5612053.013613]  [<ffffffffb2b8ab84>] ? repair_env_string+0x5c/0x5c
+[5612053.013618]  [<ffffffffb2b8a120>] ? early_idt_handler_array+0x120/0x120
+[5612053.013623]  [<ffffffffb2b8a738>] x86_64_start_reservations+0x24/0x26
+[5612053.013627]  [<ffffffffb2b8a88e>] x86_64_start_kernel+0x154/0x177
+[5612053.013633]  [<ffffffffb1e000d5>] start_cpu+0x5/0x14
+[5612053.013638] 
+
+ src: 2.2.2.2, dst: 192.168.13.4
+[5612053.013644] 
+show saddr : 2020202, daddr 40da8c0, hash 0
+[5612053.013648] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612055.013101] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612055.013106] __skb_get_hash name:swapper/0 pid:0, sk ffffa0d02e7e8000
+
+[5612055.013116] CPU: 0 PID: 0 Comm: swapper/0 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612055.013119] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612055.013122] Call Trace:
+[5612055.013126]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612055.013139]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612055.013146]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612055.013152]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612055.013157]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612055.013165]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612055.013170]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612055.013175]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612055.013181]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612055.013186]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612055.013192]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612055.013199]  [<ffffffffb1ec88f1>] ? run_posix_cpu_timers+0x51/0x830
+[5612055.013204]  [<ffffffffb1ee5aac>] ? task_tick_fair+0x4cc/0x670
+[5612055.013220]  [<ffffffffc0b0e7ba>] vxlan_xmit+0x64a/0xdd2 [vxlan]
+[5612055.013225]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612055.013230]  [<ffffffffb1eaef8d>] ? update_process_times+0x6d/0x80
+[5612055.013236]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612055.013242]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612055.013247]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612055.013256]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5612055.013263]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5612055.013270]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5612055.013274]  [<ffffffffb24533fe>] ? dev_forward_skb+0x1e/0x30
+[5612055.013279]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5612055.013286]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5612055.013293]  [<ffffffffc0b1b844>] ovs_dp_process_packet+0x84/0x120 [openvswitch]
+[5612055.013301]  [<ffffffffc0b26674>] ? ovs_ct_update_key+0xc4/0x150 [openvswitch]
+[5612055.013308]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5612055.013313]  [<ffffffffb1ee7cb8>] ? update_group_power+0x28/0x280
+[5612055.013319]  [<ffffffffb2185de5>] ? cpumask_next_and+0x35/0x50
+[5612055.013324]  [<ffffffffb1ee8054>] ? find_busiest_group+0x144/0x990
+[5612055.013330]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612055.013334]  [<ffffffffb1ee8a43>] ? load_balance+0x1a3/0xa10
+[5612055.013341]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5612055.013347]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5612055.013354]  [<ffffffffc0b25c00>] ? vport_netdev_free+0x30/0x30 [openvswitch]
+[5612055.013359]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612055.013364]  [<ffffffffb2455eee>] process_backlog+0xae/0x180
+[5612055.013369]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612055.013375]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612055.013380]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612055.013385]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612055.013391]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5612055.013396]  [<ffffffffb2598a88>] smp_apic_timer_interrupt+0x48/0x60
+[5612055.013402]  [<ffffffffb2594fba>] apic_timer_interrupt+0x16a/0x170
+[5612055.013404]  <EOI>  [<ffffffffb23c7054>] ? cpuidle_enter_state+0x54/0xd0
+[5612055.013414]  [<ffffffffb23c704d>] ? cpuidle_enter_state+0x4d/0xd0
+[5612055.013419]  [<ffffffffb23c71ae>] cpuidle_idle_call+0xde/0x230
+[5612055.013424]  [<ffffffffb1e37c8e>] arch_cpu_idle+0xe/0xc0
+[5612055.013430]  [<ffffffffb1f011ea>] cpu_startup_entry+0x14a/0x1e0
+[5612055.013435]  [<ffffffffb256f9c7>] rest_init+0x77/0x80
+[5612055.013440]  [<ffffffffb2b8b1cf>] start_kernel+0x44b/0x46c
+[5612055.013444]  [<ffffffffb2b8ab84>] ? repair_env_string+0x5c/0x5c
+[5612055.013449]  [<ffffffffb2b8a120>] ? early_idt_handler_array+0x120/0x120
+[5612055.013453]  [<ffffffffb2b8a738>] x86_64_start_reservations+0x24/0x26
+[5612055.013457]  [<ffffffffb2b8a88e>] x86_64_start_kernel+0x154/0x177
+[5612055.013462]  [<ffffffffb1e000d5>] start_cpu+0x5/0x14
+[5612055.013467] 
+
+ src: 2.2.2.2, dst: 192.168.13.4
+[5612055.013473] 
+show saddr : 2020202, daddr 40da8c0, hash 0
+[5612055.013477] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612059.012855] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612059.012861] __skb_get_hash name:swapper/0 pid:0, sk ffffa0d0253a6700
+
+[5612059.012871] CPU: 0 PID: 0 Comm: swapper/0 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612059.012874] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612059.012877] Call Trace:
+[5612059.012881]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612059.012894]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612059.012900]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612059.012906]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612059.012911]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612059.012919]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612059.012925]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612059.012930]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612059.012935]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612059.012940]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612059.012946]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612059.012970]  [<ffffffffc05d9b00>] ? ixgbe_xmit_frame_ring+0x380/0xff0 [ixgbe]
+[5612059.012982]  [<ffffffffc0b0e7ba>] vxlan_xmit+0x64a/0xdd2 [vxlan]
+[5612059.012986]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612059.012992]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612059.012998]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612059.013003]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612059.013012]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5612059.013019]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5612059.013025]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5612059.013030]  [<ffffffffb24533fe>] ? dev_forward_skb+0x1e/0x30
+[5612059.013035]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5612059.013041]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5612059.013048]  [<ffffffffc0b1b844>] ovs_dp_process_packet+0x84/0x120 [openvswitch]
+[5612059.013056]  [<ffffffffc0b26674>] ? ovs_ct_update_key+0xc4/0x150 [openvswitch]
+[5612059.013063]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5612059.013069]  [<ffffffffb1ee7cb8>] ? update_group_power+0x28/0x280
+[5612059.013075]  [<ffffffffb2185de5>] ? cpumask_next_and+0x35/0x50
+[5612059.013080]  [<ffffffffb1ee8054>] ? find_busiest_group+0x144/0x990
+[5612059.013085]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612059.013090]  [<ffffffffb1ee8a43>] ? load_balance+0x1a3/0xa10
+[5612059.013097]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5612059.013102]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5612059.013109]  [<ffffffffc0b25c00>] ? vport_netdev_free+0x30/0x30 [openvswitch]
+[5612059.013115]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612059.013119]  [<ffffffffb2455eee>] process_backlog+0xae/0x180
+[5612059.013125]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612059.013131]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612059.013136]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612059.013141]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612059.013146]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5612059.013151]  [<ffffffffb2598a88>] smp_apic_timer_interrupt+0x48/0x60
+[5612059.013157]  [<ffffffffb2594fba>] apic_timer_interrupt+0x16a/0x170
+[5612059.013160]  <EOI>  [<ffffffffb23c7054>] ? cpuidle_enter_state+0x54/0xd0
+[5612059.013169]  [<ffffffffb23c704d>] ? cpuidle_enter_state+0x4d/0xd0
+[5612059.013174]  [<ffffffffb23c71ae>] cpuidle_idle_call+0xde/0x230
+[5612059.013179]  [<ffffffffb1e37c8e>] arch_cpu_idle+0xe/0xc0
+[5612059.013185]  [<ffffffffb1f011ea>] cpu_startup_entry+0x14a/0x1e0
+[5612059.013190]  [<ffffffffb256f9c7>] rest_init+0x77/0x80
+[5612059.013195]  [<ffffffffb2b8b1cf>] start_kernel+0x44b/0x46c
+[5612059.013199]  [<ffffffffb2b8ab84>] ? repair_env_string+0x5c/0x5c
+[5612059.013204]  [<ffffffffb2b8a120>] ? early_idt_handler_array+0x120/0x120
+[5612059.013208]  [<ffffffffb2b8a738>] x86_64_start_reservations+0x24/0x26
+[5612059.013212]  [<ffffffffb2b8a88e>] x86_64_start_kernel+0x154/0x177
+[5612059.013218]  [<ffffffffb1e000d5>] start_cpu+0x5/0x14
+[5612059.013222] 
+
+ src: 2.2.2.2, dst: 192.168.13.4
+[5612059.013228] 
+show saddr : 2020202, daddr 40da8c0, hash 0
+[5612059.013232] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612067.012367] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612067.012372] __skb_get_hash name:swapper/0 pid:0, sk ffffa0cfc0b94200
+
+[5612067.012382] CPU: 0 PID: 0 Comm: swapper/0 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612067.012385] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612067.012388] Call Trace:
+[5612067.012392]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612067.012405]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612067.012411]  [<ffffffffb24a59db>] ? ip_output+0x7b/0xf0
+[5612067.012417]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612067.012423]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612067.012428]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612067.012436]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612067.012441]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612067.012446]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612067.012452]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612067.012457]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612067.012463]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612067.012483]  [<ffffffffc0b0e7ba>] vxlan_xmit+0x64a/0xdd2 [vxlan]
+[5612067.012488]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612067.012494]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612067.012499]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612067.012505]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612067.012514]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5612067.012520]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5612067.012527]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5612067.012532]  [<ffffffffb24533fe>] ? dev_forward_skb+0x1e/0x30
+[5612067.012536]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5612067.012543]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5612067.012550]  [<ffffffffc0b1b844>] ovs_dp_process_packet+0x84/0x120 [openvswitch]
+[5612067.012558]  [<ffffffffc0b26674>] ? ovs_ct_update_key+0xc4/0x150 [openvswitch]
+[5612067.012565]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5612067.012570]  [<ffffffffb1ee7cb8>] ? update_group_power+0x28/0x280
+[5612067.012576]  [<ffffffffb2185de5>] ? cpumask_next_and+0x35/0x50
+[5612067.012581]  [<ffffffffb1ee8054>] ? find_busiest_group+0x144/0x990
+[5612067.012587]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612067.012592]  [<ffffffffb1ee8a43>] ? load_balance+0x1a3/0xa10
+[5612067.012599]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5612067.012604]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5612067.012611]  [<ffffffffc0b25c00>] ? vport_netdev_free+0x30/0x30 [openvswitch]
+[5612067.012616]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612067.012621]  [<ffffffffb2455eee>] process_backlog+0xae/0x180
+[5612067.012626]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612067.012632]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612067.012637]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612067.012643]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612067.012648]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5612067.012653]  [<ffffffffb2598a88>] smp_apic_timer_interrupt+0x48/0x60
+[5612067.012659]  [<ffffffffb2594fba>] apic_timer_interrupt+0x16a/0x170
+[5612067.012662]  <EOI>  [<ffffffffb23c7054>] ? cpuidle_enter_state+0x54/0xd0
+[5612067.012671]  [<ffffffffb23c704d>] ? cpuidle_enter_state+0x4d/0xd0
+[5612067.012677]  [<ffffffffb23c71ae>] cpuidle_idle_call+0xde/0x230
+[5612067.012682]  [<ffffffffb1e37c8e>] arch_cpu_idle+0xe/0xc0
+[5612067.012687]  [<ffffffffb1f011ea>] cpu_startup_entry+0x14a/0x1e0
+[5612067.012692]  [<ffffffffb256f9c7>] rest_init+0x77/0x80
+[5612067.012697]  [<ffffffffb2b8b1cf>] start_kernel+0x44b/0x46c
+[5612067.012701]  [<ffffffffb2b8ab84>] ? repair_env_string+0x5c/0x5c
+[5612067.012706]  [<ffffffffb2b8a120>] ? early_idt_handler_array+0x120/0x120
+[5612067.012710]  [<ffffffffb2b8a738>] x86_64_start_reservations+0x24/0x26
+[5612067.012715]  [<ffffffffb2b8a88e>] x86_64_start_kernel+0x154/0x177
+[5612067.012720]  [<ffffffffb1e000d5>] start_cpu+0x5/0x14
+[5612067.012724] 
+
+ src: 2.2.2.2, dst: 192.168.13.4
+[5612067.012730] 
+show saddr : 2020202, daddr 40da8c0, hash 0
+[5612067.012734] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612069.912551] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612069.912557] __skb_get_hash name:swapper/21 pid:0, sk ffffa0cf893dd600
+
+[5612069.912566] CPU: 21 PID: 0 Comm: swapper/21 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612069.912570] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612069.912572] Call Trace:
+[5612069.912576]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612069.912590]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612069.912596]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612069.912602]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612069.912607]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612069.912613]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612069.912617]  [<ffffffffb2451dc4>] ? __skb_tx_hash+0xa4/0xc0
+[5612069.912622]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612069.912627]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612069.912633]  [<ffffffffb243c6f7>] ? kfree_skbmem+0x37/0x90
+[5612069.912640]  [<ffffffffb1ede185>] ? sched_clock_cpu+0x85/0xc0
+[5612069.912645]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612069.912650]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612069.912654]  [<ffffffffb2451dc4>] ? __skb_tx_hash+0xa4/0xc0
+[5612069.912659]  [<ffffffffb24522ce>] __netdev_pick_tx+0x16e/0x180
+[5612069.912664]  [<ffffffffb1ed735f>] ? ttwu_do_activate+0x6f/0x80
+[5612069.912669]  [<ffffffffb2456e1b>] netdev_pick_tx+0xbb/0x110
+[5612069.912674]  [<ffffffffb2456fc1>] __dev_queue_xmit+0x151/0x650
+[5612069.912679]  [<ffffffffb243c6f7>] ? kfree_skbmem+0x37/0x90
+[5612069.912685]  [<ffffffffb243dbf4>] ? consume_skb+0x34/0x90
+[5612069.912690]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612069.912699]  [<ffffffffc0a45da5>] vlan_dev_hard_start_xmit+0x95/0x120 [8021q]
+[5612069.912704]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612069.912709]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612069.912715]  [<ffffffffb24574f3>] dev_queue_xmit_sk+0x13/0x20
+[5612069.912721]  [<ffffffffb24d48ba>] arp_xmit+0x3a/0xb0
+[5612069.912726]  [<ffffffffb24d44f3>] ? arp_create+0x1c3/0x230
+[5612069.912731]  [<ffffffffb24d4975>] arp_send_dst.part.16+0x45/0x50
+[5612069.912736]  [<ffffffffb24d5957>] arp_process+0x877/0x8e0
+[5612069.912741]  [<ffffffffb1ed3101>] ? __wake_up_common_lock+0x91/0xc0
+[5612069.912747]  [<ffffffffb1ed2ba0>] ? task_rq_unlock+0x20/0x20
+[5612069.912764]  [<ffffffffb243caee>] ? __skb_clone+0x2e/0x150
+[5612069.912769]  [<ffffffffb24d5b0d>] arp_rcv+0x12d/0x1b0
+[5612069.912774]  [<ffffffffb255f91c>] ? packet_rcv+0x4c/0x430
+[5612069.912780]  [<ffffffffb2454eba>] __netif_receive_skb_core+0x9ca/0xa10
+[5612069.912785]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612069.912790]  [<ffffffffb2454fa0>] netif_receive_skb_internal+0x40/0xc0
+[5612069.912795]  [<ffffffffb2455c28>] napi_gro_receive+0xd8/0x100
+[5612069.912812]  [<ffffffffc0473b66>] igb_clean_rx_irq+0x356/0x800 [igb]
+[5612069.912826]  [<ffffffffc04743ab>] igb_poll+0x39b/0x790 [igb]
+[5612069.912830]  [<ffffffffb1ed3101>] ? __wake_up_common_lock+0x91/0xc0
+[5612069.912835]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612069.912842]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612069.912847]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612069.912853]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612069.912858]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5612069.912863]  [<ffffffffb2598936>] do_IRQ+0x56/0xf0
+[5612069.912869]  [<ffffffffb258a36a>] common_interrupt+0x16a/0x16a
+[5612069.912872]  <EOI>  [<ffffffffb23c7054>] ? cpuidle_enter_state+0x54/0xd0
+[5612069.912881]  [<ffffffffb23c71ae>] cpuidle_idle_call+0xde/0x230
+[5612069.912887]  [<ffffffffb1e37c8e>] arch_cpu_idle+0xe/0xc0
+[5612069.912892]  [<ffffffffb1f011ea>] cpu_startup_entry+0x14a/0x1e0
+[5612069.912898]  [<ffffffffb1e5a7f7>] start_secondary+0x1f7/0x270
+[5612069.912903]  [<ffffffffb1e000d5>] start_cpu+0x5/0x14
+[5612069.912909] 
+
+ src: 83.226.10.1, dst: 34.55.0.12
+[5612069.912914] 
+show saddr : 10ae253, daddr c003722, hash 0
+[5612069.912918] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612076.576574] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612076.576580] __skb_get_hash name:handler162 pid:11708, sk ffffa0cfa57bb200
+
+[5612076.576588] CPU: 2 PID: 11708 Comm: handler162 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612076.576592] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612076.576594] Call Trace:
+[5612076.576605]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612076.576611]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612076.576617]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612076.576624]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612076.576629]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612076.576637]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612076.576642]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612076.576647]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612076.576653]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612076.576658]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612076.576664]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612076.576672]  [<ffffffffc0b1fedd>] ? reserve_sfa_size+0x2d/0xe0 [openvswitch]
+[5612076.576690]  [<ffffffffc0b0e7ba>] vxlan_xmit+0x64a/0xdd2 [vxlan]
+[5612076.576695]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612076.576713]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612076.576719]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612076.576725]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612076.576734]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5612076.576742]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5612076.576749]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5612076.576757]  [<ffffffffc0b1fe69>] ? nla_alloc_flow_actions+0x39/0x80 [openvswitch]
+[5612076.576764]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5612076.576772]  [<ffffffffc0b1acdb>] ovs_packet_cmd_execute+0x2ab/0x2e0 [openvswitch]
+[5612076.576779]  [<ffffffffb2494228>] genl_family_rcv_msg+0x208/0x430
+[5612076.576787]  [<ffffffffb2025e0d>] ? __slab_free+0x9d/0x290
+[5612076.576793]  [<ffffffffb24944ab>] genl_rcv_msg+0x5b/0xc0
+[5612076.576799]  [<ffffffffb2494450>] ? genl_family_rcv_msg+0x430/0x430
+[5612076.576804]  [<ffffffffb249249b>] netlink_rcv_skb+0xab/0xc0
+[5612076.576809]  [<ffffffffb24929d8>] genl_rcv+0x28/0x40
+[5612076.576815]  [<ffffffffb2491e20>] netlink_unicast+0x170/0x210
+[5612076.576820]  [<ffffffffb24921c8>] netlink_sendmsg+0x308/0x420
+[5612076.576826]  [<ffffffffb24343a6>] sock_sendmsg+0xb6/0xf0
+[5612076.576830]  [<ffffffffb24344f5>] ? sock_recvmsg+0xc5/0x100
+[5612076.576836]  [<ffffffffb2435269>] ___sys_sendmsg+0x3e9/0x400
+[5612076.576844]  [<ffffffffb209cb59>] ? ep_scan_ready_list.isra.7+0x1b9/0x1f0
+[5612076.576850]  [<ffffffffb209ccd3>] ? ep_poll+0x123/0x360
+[5612076.576855]  [<ffffffffb2436921>] __sys_sendmsg+0x51/0x90
+[5612076.576860]  [<ffffffffb2436972>] SyS_sendmsg+0x12/0x20
+[5612076.576867]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5612076.576873]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612076.576879] 
+
+ src: 2.2.2.2, dst: 192.168.11.4
+[5612076.576885] 
+show saddr : 2020202, daddr 40ba8c0, hash 0
+[5612076.576889] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612083.011364] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612083.011370] __skb_get_hash name:swapper/0 pid:0, sk ffffa0d004fdd900
+
+[5612083.011380] CPU: 0 PID: 0 Comm: swapper/0 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612083.011384] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612083.011387] Call Trace:
+[5612083.011391]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612083.011406]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612083.011413]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612083.011419]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612083.011425]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612083.011436]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612083.011442]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612083.011447]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612083.011453]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612083.011459]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612083.011467]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612083.011475]  [<ffffffffc0b1b88f>] ovs_dp_process_packet+0xcf/0x120 [openvswitch]
+[5612083.011483]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5612083.011489]  [<ffffffffb1ee7cb8>] ? update_group_power+0x28/0x280
+[5612083.011495]  [<ffffffffb2185de5>] ? cpumask_next_and+0x35/0x50
+[5612083.011500]  [<ffffffffb1ee8054>] ? find_busiest_group+0x144/0x990
+[5612083.011507]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612083.011512]  [<ffffffffb1ee8a43>] ? load_balance+0x1a3/0xa10
+[5612083.011520]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5612083.011526]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5612083.011534]  [<ffffffffc0b25c00>] ? vport_netdev_free+0x30/0x30 [openvswitch]
+[5612083.011540]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612083.011545]  [<ffffffffb2455eee>] process_backlog+0xae/0x180
+[5612083.011551]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612083.011557]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612083.011563]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612083.011569]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612083.011574]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5612083.011580]  [<ffffffffb2598a88>] smp_apic_timer_interrupt+0x48/0x60
+[5612083.011586]  [<ffffffffb2594fba>] apic_timer_interrupt+0x16a/0x170
+[5612083.011589]  <EOI>  [<ffffffffb23c7054>] ? cpuidle_enter_state+0x54/0xd0
+[5612083.011599]  [<ffffffffb23c704d>] ? cpuidle_enter_state+0x4d/0xd0
+[5612083.011605]  [<ffffffffb23c71ae>] cpuidle_idle_call+0xde/0x230
+[5612083.011610]  [<ffffffffb1e37c8e>] arch_cpu_idle+0xe/0xc0
+[5612083.011616]  [<ffffffffb1f011ea>] cpu_startup_entry+0x14a/0x1e0
+[5612083.011622]  [<ffffffffb256f9c7>] rest_init+0x77/0x80
+[5612083.011627]  [<ffffffffb2b8b1cf>] start_kernel+0x44b/0x46c
+[5612083.011632]  [<ffffffffb2b8ab84>] ? repair_env_string+0x5c/0x5c
+[5612083.011637]  [<ffffffffb2b8a120>] ? early_idt_handler_array+0x120/0x120
+[5612083.011641]  [<ffffffffb2b8a738>] x86_64_start_reservations+0x24/0x26
+[5612083.011646]  [<ffffffffb2b8a88e>] x86_64_start_kernel+0x154/0x177
+[5612083.011652]  [<ffffffffb1e000d5>] start_cpu+0x5/0x14
+[5612083.011657] 
+
+ src: 2.2.2.2, dst: 192.168.13.4
+[5612083.011662] 
+show saddr : 2020202, daddr 40da8c0, hash 0
+[5612083.011667] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612083.012277] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612083.012283] __skb_get_hash name:handler178 pid:11724, sk ffffa0d020bb3d00
+
+[5612083.012293] CPU: 1 PID: 11724 Comm: handler178 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612083.012296] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612083.012299] Call Trace:
+[5612083.012310]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612083.012317]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612083.012324]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612083.012331]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612083.012337]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612083.012348]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612083.012353]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612083.012359]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612083.012365]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612083.012370]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612083.012377]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612083.012385]  [<ffffffffc0b1fedd>] ? reserve_sfa_size+0x2d/0xe0 [openvswitch]
+[5612083.012407]  [<ffffffffc0b0e7ba>] vxlan_xmit+0x64a/0xdd2 [vxlan]
+[5612083.012413]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612083.012420]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612083.012429]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612083.012435]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612083.012444]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5612083.012451]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5612083.012458]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5612083.012466]  [<ffffffffc0b1fe69>] ? nla_alloc_flow_actions+0x39/0x80 [openvswitch]
+[5612083.012474]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5612083.012481]  [<ffffffffc0b1acdb>] ovs_packet_cmd_execute+0x2ab/0x2e0 [openvswitch]
+[5612083.012488]  [<ffffffffb2494228>] genl_family_rcv_msg+0x208/0x430
+[5612083.012494]  [<ffffffffb2025e0d>] ? __slab_free+0x9d/0x290
+[5612083.012501]  [<ffffffffb243e10d>] ? __alloc_skb+0x5d/0x2d0
+[5612083.012507]  [<ffffffffb24944ab>] genl_rcv_msg+0x5b/0xc0
+[5612083.012515]  [<ffffffffb2494450>] ? genl_family_rcv_msg+0x430/0x430
+[5612083.012520]  [<ffffffffb249249b>] netlink_rcv_skb+0xab/0xc0
+[5612083.012525]  [<ffffffffb24929d8>] genl_rcv+0x28/0x40
+[5612083.012530]  [<ffffffffb2491e20>] netlink_unicast+0x170/0x210
+[5612083.012536]  [<ffffffffb24921c8>] netlink_sendmsg+0x308/0x420
+[5612083.012541]  [<ffffffffb24343a6>] sock_sendmsg+0xb6/0xf0
+[5612083.012548]  [<ffffffffb25154bb>] ? unix_dgram_sendmsg+0x3cb/0x770
+[5612083.012553]  [<ffffffffb2435269>] ___sys_sendmsg+0x3e9/0x400
+[5612083.012561]  [<ffffffffb209cb59>] ? ep_scan_ready_list.isra.7+0x1b9/0x1f0
+[5612083.012567]  [<ffffffffb209ccd3>] ? ep_poll+0x123/0x360
+[5612083.012572]  [<ffffffffb2436921>] __sys_sendmsg+0x51/0x90
+[5612083.012578]  [<ffffffffb2436972>] SyS_sendmsg+0x12/0x20
+[5612083.012587]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5612083.012594]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612083.012599] 
+
+ src: 2.2.2.2, dst: 192.168.13.4
+[5612083.012605] 
+show saddr : 2020202, daddr 40da8c0, hash 0
+[5612083.012609] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612083.012858] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612083.012863] __skb_get_hash name:systemd-journal pid:642, sk ffffa0cfc0b95600
+
+[5612083.012872] CPU: 0 PID: 642 Comm: systemd-journal Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612083.012875] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612083.012878] Call Trace:
+[5612083.012882]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612083.012894]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612083.012900]  [<ffffffffb2461ca4>] ? metadata_dst_alloc+0x24/0x90
+[5612083.012906]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612083.012912]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612083.012918]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612083.012927]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612083.012932]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612083.012938]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612083.012944]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612083.012949]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612083.012957]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612083.012964]  [<ffffffffc0b1b88f>] ovs_dp_process_packet+0xcf/0x120 [openvswitch]
+[5612083.012972]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5612083.012978]  [<ffffffffb249f28d>] ? ip_local_deliver_finish+0xbd/0x200
+[5612083.012983]  [<ffffffffb249f580>] ? ip_local_deliver+0x60/0xe0
+[5612083.012988]  [<ffffffffb249f1d0>] ? ip_rcv_finish+0x370/0x370
+[5612083.012993]  [<ffffffffb249eef0>] ? ip_rcv_finish+0x90/0x370
+[5612083.012997]  [<ffffffffb249f8c0>] ? ip_rcv+0x2c0/0x420
+[5612083.013002]  [<ffffffffb249ee60>] ? inet_del_offload+0x40/0x40
+[5612083.013008]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612083.013014]  [<ffffffffb2454f18>] ? __netif_receive_skb+0x18/0x60
+[5612083.013022]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5612083.013027]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5612083.013035]  [<ffffffffc0b25c00>] ? vport_netdev_free+0x30/0x30 [openvswitch]
+[5612083.013042]  [<ffffffffb24cc100>] ? tcp4_gro_receive+0x80/0x1a0
+[5612083.013047]  [<ffffffffb1f078df>] ? __getnstimeofday64+0x3f/0xd0
+[5612083.013052]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612083.013058]  [<ffffffffb2454fa0>] netif_receive_skb_internal+0x40/0xc0
+[5612083.013063]  [<ffffffffb2455c28>] napi_gro_receive+0xd8/0x100
+[5612083.013070]  [<ffffffffc0b08187>] gro_cell_poll+0x57/0x80 [vxlan]
+[5612083.013075]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612083.013082]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612083.013087]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612083.013093]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612083.013098]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5612083.013103]  [<ffffffffb2598936>] do_IRQ+0x56/0xf0
+[5612083.013111]  [<ffffffffb258a36a>] common_interrupt+0x16a/0x16a
+[5612083.013114]  <EOI>  [<ffffffffb1e9cdf2>] ? devkmsg_read+0x372/0x480
+[5612083.013126]  [<ffffffffb210898c>] ? security_file_permission+0x8c/0xa0
+[5612083.013134]  [<ffffffffb204d9bf>] vfs_read+0x9f/0x170
+[5612083.013140]  [<ffffffffb204e83f>] SyS_read+0x7f/0xf0
+[5612083.013146]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612083.013152]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5612083.013159]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612083.013164] 
+
+ src: 10.10.10.3, dst: 3.3.3.1
+[5612083.013170] 
+show saddr : 30a0a0a, daddr 1030303, hash 0
+[5612083.013174] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612104.478476] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612104.478483] __skb_get_hash name:handler174 pid:11720, sk ffffa0e7b17b1500
+
+[5612104.478492] CPU: 17 PID: 11720 Comm: handler174 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612104.478496] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612104.478499] Call Trace:
+[5612104.478509]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612104.478516]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612104.478523]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612104.478530]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612104.478536]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612104.478544]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612104.478550]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612104.478555]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612104.478561]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612104.478567]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612104.478573]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612104.478582]  [<ffffffffc0b1fedd>] ? reserve_sfa_size+0x2d/0xe0 [openvswitch]
+[5612104.478601]  [<ffffffffc0b0e7ba>] vxlan_xmit+0x64a/0xdd2 [vxlan]
+[5612104.478606]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612104.478612]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612104.478618]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612104.478624]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612104.478633]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5612104.478640]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5612104.478648]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5612104.478656]  [<ffffffffc0b1fe69>] ? nla_alloc_flow_actions+0x39/0x80 [openvswitch]
+[5612104.478663]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5612104.478670]  [<ffffffffc0b1acdb>] ovs_packet_cmd_execute+0x2ab/0x2e0 [openvswitch]
+[5612104.478677]  [<ffffffffb2494228>] genl_family_rcv_msg+0x208/0x430
+[5612104.478684]  [<ffffffffb24944ab>] genl_rcv_msg+0x5b/0xc0
+[5612104.478689]  [<ffffffffb2494450>] ? genl_family_rcv_msg+0x430/0x430
+[5612104.478694]  [<ffffffffb249249b>] netlink_rcv_skb+0xab/0xc0
+[5612104.478700]  [<ffffffffb24929d8>] genl_rcv+0x28/0x40
+[5612104.478705]  [<ffffffffb2491e20>] netlink_unicast+0x170/0x210
+[5612104.478710]  [<ffffffffb24921c8>] netlink_sendmsg+0x308/0x420
+[5612104.478716]  [<ffffffffb24343a6>] sock_sendmsg+0xb6/0xf0
+[5612104.478722]  [<ffffffffb25154bb>] ? unix_dgram_sendmsg+0x3cb/0x770
+[5612104.478728]  [<ffffffffb2435269>] ___sys_sendmsg+0x3e9/0x400
+[5612104.478735]  [<ffffffffb209cb59>] ? ep_scan_ready_list.isra.7+0x1b9/0x1f0
+[5612104.478741]  [<ffffffffb209ccd3>] ? ep_poll+0x123/0x360
+[5612104.478747]  [<ffffffffb2436921>] __sys_sendmsg+0x51/0x90
+[5612104.478752]  [<ffffffffb2436972>] SyS_sendmsg+0x12/0x20
+[5612104.478759]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5612104.478765]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612104.478770] 
+
+ src: 3.3.3.1, dst: 10.10.10.3
+[5612104.478776] 
+show saddr : 1030303, daddr 30a0a0a, hash 0
+[5612104.478781] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612104.479245] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612104.479252] __skb_get_hash name:ksoftirqd/23 pid:126, sk ffffa0d0163a3d00
+
+[5612104.479261] CPU: 23 PID: 126 Comm: ksoftirqd/23 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612104.479266] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612104.479270] Call Trace:
+[5612104.479283]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612104.479294]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612104.479305]  [<ffffffffb1ed2ba0>] ? task_rq_unlock+0x20/0x20
+[5612104.479315]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612104.479326]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612104.479336]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612104.479350]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612104.479358]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612104.479366]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612104.479376]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612104.479384]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612104.479396]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612104.479409]  [<ffffffffc0b1b88f>] ovs_dp_process_packet+0xcf/0x120 [openvswitch]
+[5612104.479421]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5612104.479432]  [<ffffffffc0b26674>] ? ovs_ct_update_key+0xc4/0x150 [openvswitch]
+[5612104.479445]  [<ffffffffc0b25233>] ? ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5612104.479455]  [<ffffffffb1ee7cb8>] ? update_group_power+0x28/0x280
+[5612104.479465]  [<ffffffffb2185de5>] ? cpumask_next_and+0x35/0x50
+[5612104.479473]  [<ffffffffb1ee8054>] ? find_busiest_group+0x144/0x990
+[5612104.479486]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612104.479497]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5612104.479506]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5612104.479517]  [<ffffffffc0b25c00>] ? vport_netdev_free+0x30/0x30 [openvswitch]
+[5612104.479525]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612104.479533]  [<ffffffffb2454fa0>] netif_receive_skb_internal+0x40/0xc0
+[5612104.479542]  [<ffffffffb2455c28>] napi_gro_receive+0xd8/0x100
+[5612104.479557]  [<ffffffffc0b08187>] gro_cell_poll+0x57/0x80 [vxlan]
+[5612104.479565]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612104.479577]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612104.479586]  [<ffffffffb1ea4d58>] run_ksoftirqd+0x38/0x50
+[5612104.479595]  [<ffffffffb1ece674>] smpboot_thread_fn+0x144/0x1a0
+[5612104.479604]  [<ffffffffb1ece530>] ? lg_double_unlock+0x40/0x40
+[5612104.479613]  [<ffffffffb1ec5c21>] kthread+0xd1/0xe0
+[5612104.479622]  [<ffffffffb1ec5b50>] ? insert_kthread_work+0x40/0x40
+[5612104.479631]  [<ffffffffb2593df7>] ret_from_fork_nospec_begin+0x21/0x21
+[5612104.479642]  [<ffffffffb1ec5b50>] ? insert_kthread_work+0x40/0x40
+[5612104.479652] 
+
+ src: 192.168.13.4, dst: 2.2.2.2
+[5612104.479661] 
+show saddr : 40da8c0, daddr 2020202, hash 0
+[5612104.479668] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612104.480833] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612104.480839] __skb_get_hash name:handler179 pid:11725, sk ffffa0cfa57bac00
+
+[5612104.480849] CPU: 2 PID: 11725 Comm: handler179 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612104.480853] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612104.480855] Call Trace:
+[5612104.480866]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612104.480873]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612104.480880]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612104.480887]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612104.480893]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612104.480904]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612104.480910]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612104.480915]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612104.480922]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612104.480927]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612104.480934]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612104.480943]  [<ffffffffc0b1fedd>] ? reserve_sfa_size+0x2d/0xe0 [openvswitch]
+[5612104.480964]  [<ffffffffc0b0e7ba>] vxlan_xmit+0x64a/0xdd2 [vxlan]
+[5612104.480970]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612104.480976]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612104.480982]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612104.480988]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612104.480997]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5612104.481005]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5612104.481012]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5612104.481020]  [<ffffffffc0b1fe69>] ? nla_alloc_flow_actions+0x39/0x80 [openvswitch]
+[5612104.481030] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612104.481030] __skb_get_hash name:httpd pid:10291, sk ffffa0cfa93d2d00
+
+[5612104.481037] CPU: 0 PID: 10291 Comm: httpd Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612104.481043] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612104.481046] Call Trace:
+[5612104.481060]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612104.481065]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5612104.481075]  [<ffffffffc0b1acdb>] ovs_packet_cmd_execute+0x2ab/0x2e0 [openvswitch]
+[5612104.481085]  [<ffffffffb2494228>] genl_family_rcv_msg+0x208/0x430
+[5612104.481092]  [<ffffffffb2025e0d>] ? __slab_free+0x9d/0x290
+[5612104.481098]  [<ffffffffb258e975>] ? do_page_fault+0x35/0x90
+[5612104.481104]  [<ffffffffb243e10d>] ? __alloc_skb+0x5d/0x2d0
+[5612104.481110]  [<ffffffffb24944ab>] genl_rcv_msg+0x5b/0xc0
+[5612104.481116]  [<ffffffffb2494450>] ? genl_family_rcv_msg+0x430/0x430
+[5612104.481122]  [<ffffffffb249249b>] netlink_rcv_skb+0xab/0xc0
+[5612104.481129]  [<ffffffffb24929d8>] genl_rcv+0x28/0x40
+[5612104.481132]  [<ffffffffb2491e20>] netlink_unicast+0x170/0x210
+[5612104.481138]  [<ffffffffb24921c8>] netlink_sendmsg+0x308/0x420
+[5612104.481144]  [<ffffffffb24343a6>] sock_sendmsg+0xb6/0xf0
+[5612104.481150]  [<ffffffffb25154bb>] ? unix_dgram_sendmsg+0x3cb/0x770
+[5612104.481156]  [<ffffffffb2435269>] ___sys_sendmsg+0x3e9/0x400
+[5612104.481163]  [<ffffffffb1ff339e>] ? do_numa_page+0x1be/0x250
+[5612104.481170]  [<ffffffffb1ff5ceb>] ? handle_mm_fault+0xadb/0xfb0
+[5612104.481177]  [<ffffffffb209cb59>] ? ep_scan_ready_list.isra.7+0x1b9/0x1f0
+[5612104.481183]  [<ffffffffb2436921>] __sys_sendmsg+0x51/0x90
+[5612104.481188]  [<ffffffffb2436972>] SyS_sendmsg+0x12/0x20
+[5612104.481195]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5612104.481202]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612104.481208] 
+
+ src: 2.2.2.2, dst: 192.168.13.4
+[5612104.481213] 
+show saddr : 2020202, daddr 40da8c0, hash 0
+[5612104.481227] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612104.481235]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612104.481243]  [<ffffffffb2461ca4>] ? metadata_dst_alloc+0x24/0x90
+[5612104.481251]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612104.481259]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612104.481266]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612104.481280]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612104.481287]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612104.481294]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612104.481301]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612104.481307]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612104.481317]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612104.481328]  [<ffffffffc0b1b88f>] ovs_dp_process_packet+0xcf/0x120 [openvswitch]
+[5612104.481341]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5612104.481350]  [<ffffffffb249f28d>] ? ip_local_deliver_finish+0xbd/0x200
+[5612104.481357]  [<ffffffffb249f580>] ? ip_local_deliver+0x60/0xe0
+[5612104.481363]  [<ffffffffb249f1d0>] ? ip_rcv_finish+0x370/0x370
+[5612104.481370]  [<ffffffffb249eef0>] ? ip_rcv_finish+0x90/0x370
+[5612104.481378]  [<ffffffffb249f8c0>] ? ip_rcv+0x2c0/0x420
+[5612104.481384]  [<ffffffffb249ee60>] ? inet_del_offload+0x40/0x40
+[5612104.481390]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612104.481397]  [<ffffffffb2454f18>] ? __netif_receive_skb+0x18/0x60
+[5612104.481408]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5612104.481415]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5612104.481424]  [<ffffffffc0b25c00>] ? vport_netdev_free+0x30/0x30 [openvswitch]
+[5612104.481433]  [<ffffffffb24cc100>] ? tcp4_gro_receive+0x80/0x1a0
+[5612104.481440]  [<ffffffffb1f078df>] ? __getnstimeofday64+0x3f/0xd0
+[5612104.481446]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612104.481453]  [<ffffffffb2454fa0>] netif_receive_skb_internal+0x40/0xc0
+[5612104.481463]  [<ffffffffb2455c28>] napi_gro_receive+0xd8/0x100
+[5612104.481471]  [<ffffffffc0b08187>] gro_cell_poll+0x57/0x80 [vxlan]
+[5612104.481479]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612104.481487]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612104.481494]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612104.481502]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612104.481509]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5612104.481515]  [<ffffffffb2598936>] do_IRQ+0x56/0xf0
+[5612104.481523]  [<ffffffffb258a36a>] common_interrupt+0x16a/0x16a
+[5612104.481533]  <EOI> 
+[5612104.481534] 
+
+ src: 10.10.10.3, dst: 3.3.3.1
+[5612104.481546] 
+show saddr : 30a0a0a, daddr 1030303, hash 0
+[5612104.481553] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612104.481683] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612104.481689] __skb_get_hash name:httpd pid:10291, sk ffffa0cfa93d2d00
+
+[5612104.481701] CPU: 0 PID: 10291 Comm: httpd Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612104.481705] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612104.481710] Call Trace:
+[5612104.481716]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612104.481736]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612104.481744]  [<ffffffffb2461ca4>] ? metadata_dst_alloc+0x24/0x90
+[5612104.481753]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612104.481762]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612104.481771]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612104.481784]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612104.481792]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612104.481801]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612104.481809]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612104.481817]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612104.481827]  [<ffffffffc0b251b4>] ? ovs_vport_find_upcall_portid+0x74/0x80 [openvswitch]
+[5612104.481839]  [<ffffffffc0b1b88f>] ovs_dp_process_packet+0xcf/0x120 [openvswitch]
+[5612104.481852]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5612104.481863]  [<ffffffffb249f28d>] ? ip_local_deliver_finish+0xbd/0x200
+[5612104.481870]  [<ffffffffb249f580>] ? ip_local_deliver+0x60/0xe0
+[5612104.481878]  [<ffffffffb249f1d0>] ? ip_rcv_finish+0x370/0x370
+[5612104.481886]  [<ffffffffb249eef0>] ? ip_rcv_finish+0x90/0x370
+[5612104.481894]  [<ffffffffb249f8c0>] ? ip_rcv+0x2c0/0x420
+[5612104.481902]  [<ffffffffb249ee60>] ? inet_del_offload+0x40/0x40
+[5612104.481910]  [<ffffffffb255c58f>] ? tpacket_rcv+0x5f/0x970
+[5612104.481918]  [<ffffffffb2454f18>] ? __netif_receive_skb+0x18/0x60
+[5612104.481931]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5612104.481939]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5612104.481949]  [<ffffffffc0b25c00>] ? vport_netdev_free+0x30/0x30 [openvswitch]
+[5612104.481958]  [<ffffffffb24cc100>] ? tcp4_gro_receive+0x80/0x1a0
+[5612104.481966]  [<ffffffffb1f078df>] ? __getnstimeofday64+0x3f/0xd0
+[5612104.481976]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612104.481984]  [<ffffffffb2454fa0>] netif_receive_skb_internal+0x40/0xc0
+[5612104.481992]  [<ffffffffb2455c28>] napi_gro_receive+0xd8/0x100
+[5612104.482002]  [<ffffffffc0b08187>] gro_cell_poll+0x57/0x80 [vxlan]
+[5612104.482012]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612104.482022]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612104.482031]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612104.482040]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612104.482048]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5612104.482056]  [<ffffffffb2598936>] do_IRQ+0x56/0xf0
+[5612104.482065]  [<ffffffffb258a36a>] common_interrupt+0x16a/0x16a
+[5612104.482069]  <EOI>  [<ffffffffb2586430>] ? schedule_hrtimeout+0x20/0x20
+[5612104.482147]  [<ffffffffc08830f7>] ? xfs_log_commit_cil+0x157/0x660 [xfs]
+[5612104.482157]  [<ffffffffb20287c2>] ? kmem_cache_alloc+0x1c2/0x1f0
+[5612104.482217]  [<ffffffffc087ddf7>] ? kmem_zone_alloc+0x97/0x130 [xfs]
+[5612104.482272]  [<ffffffffc087cebd>] __xfs_trans_commit+0x12d/0x260 [xfs]
+[5612104.482326]  [<ffffffffc087d2b0>] xfs_trans_commit+0x10/0x20 [xfs]
+[5612104.482380]  [<ffffffffc086d5b6>] xfs_vn_update_time+0x146/0x150 [xfs]
+[5612104.482395]  [<ffffffffb206b888>] update_time+0x28/0xd0
+[5612104.482408]  [<ffffffffb2040de6>] ? mem_cgroup_update_page_stat+0x16/0x50
+[5612104.482419]  [<ffffffffb206b9d0>] file_update_time+0xa0/0xf0
+[5612104.482473]  [<ffffffffc0862edf>] xfs_file_aio_write_checks+0x16f/0x1c0 [xfs]
+[5612104.482522]  [<ffffffffc086375a>] xfs_file_buffered_aio_write+0xca/0x2c0 [xfs]
+[5612104.482572]  [<ffffffffc0863add>] xfs_file_aio_write+0x18d/0x1b0 [xfs]
+[5612104.482583]  [<ffffffffb204d063>] do_sync_write+0x93/0xe0
+[5612104.482593]  [<ffffffffb204db50>] vfs_write+0xc0/0x1f0
+[5612104.482603]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612104.482611]  [<ffffffffb204e92f>] SyS_write+0x7f/0xf0
+[5612104.482619]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612104.482628]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5612104.482637]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612104.482644] 
+
+ src: 10.10.10.3, dst: 3.3.3.1
+[5612104.482653] 
+show saddr : 30a0a0a, daddr 1030303, hash 0
+[5612104.482660] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612107.630339] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612107.630346] __skb_get_hash name:swapper/21 pid:0, sk ffffa0d0223b3200
+
+[5612107.630356] CPU: 21 PID: 0 Comm: swapper/21 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612107.630360] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612107.630363] Call Trace:
+[5612107.630367]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612107.630382]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612107.630388]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612107.630395]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612107.630400]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612107.630406]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612107.630411]  [<ffffffffb2451dc4>] ? __skb_tx_hash+0xa4/0xc0
+[5612107.630416]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612107.630422]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612107.630428]  [<ffffffffb243c6f7>] ? kfree_skbmem+0x37/0x90
+[5612107.630435]  [<ffffffffb1ede185>] ? sched_clock_cpu+0x85/0xc0
+[5612107.630440]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612107.630446]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612107.630450]  [<ffffffffb2451dc4>] ? __skb_tx_hash+0xa4/0xc0
+[5612107.630455]  [<ffffffffb24522ce>] __netdev_pick_tx+0x16e/0x180
+[5612107.630460]  [<ffffffffb1ed735f>] ? ttwu_do_activate+0x6f/0x80
+[5612107.630466]  [<ffffffffb2456e1b>] netdev_pick_tx+0xbb/0x110
+[5612107.630472]  [<ffffffffb2456fc1>] __dev_queue_xmit+0x151/0x650
+[5612107.630477]  [<ffffffffb243c6f7>] ? kfree_skbmem+0x37/0x90
+[5612107.630483]  [<ffffffffb243dbf4>] ? consume_skb+0x34/0x90
+[5612107.630489]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612107.630498]  [<ffffffffc0a45da5>] vlan_dev_hard_start_xmit+0x95/0x120 [8021q]
+[5612107.630504]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612107.630510]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612107.630515]  [<ffffffffb24574f3>] dev_queue_xmit_sk+0x13/0x20
+[5612107.630521]  [<ffffffffb24d48ba>] arp_xmit+0x3a/0xb0
+[5612107.630526]  [<ffffffffb24d44f3>] ? arp_create+0x1c3/0x230
+[5612107.630531]  [<ffffffffb24d4975>] arp_send_dst.part.16+0x45/0x50
+[5612107.630537]  [<ffffffffb24d5957>] arp_process+0x877/0x8e0
+[5612107.630542]  [<ffffffffb1ed3101>] ? __wake_up_common_lock+0x91/0xc0
+[5612107.630548]  [<ffffffffb1ed2ba0>] ? task_rq_unlock+0x20/0x20
+[5612107.630565]  [<ffffffffb243caee>] ? __skb_clone+0x2e/0x150
+[5612107.630570]  [<ffffffffb24d5b0d>] arp_rcv+0x12d/0x1b0
+[5612107.630575]  [<ffffffffb255f91c>] ? packet_rcv+0x4c/0x430
+[5612107.630581]  [<ffffffffb2454eba>] __netif_receive_skb_core+0x9ca/0xa10
+[5612107.630586]  [<ffffffffb1ee4300>] ? update_curr+0x80/0x1e0
+[5612107.630592]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612107.630597]  [<ffffffffb2454fa0>] netif_receive_skb_internal+0x40/0xc0
+[5612107.630603]  [<ffffffffb2455c28>] napi_gro_receive+0xd8/0x100
+[5612107.630619]  [<ffffffffc0473b66>] igb_clean_rx_irq+0x356/0x800 [igb]
+[5612107.630635]  [<ffffffffc04743ab>] igb_poll+0x39b/0x790 [igb]
+[5612107.630639]  [<ffffffffb1ed3101>] ? __wake_up_common_lock+0x91/0xc0
+[5612107.630645]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612107.630652]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612107.630657]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612107.630663]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612107.630668]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5612107.630673]  [<ffffffffb2598936>] do_IRQ+0x56/0xf0
+[5612107.630680]  [<ffffffffb258a36a>] common_interrupt+0x16a/0x16a
+[5612107.630683]  <EOI>  [<ffffffffb23c7054>] ? cpuidle_enter_state+0x54/0xd0
+[5612107.630693]  [<ffffffffb23c71ae>] cpuidle_idle_call+0xde/0x230
+[5612107.630699]  [<ffffffffb1e37c8e>] arch_cpu_idle+0xe/0xc0
+[5612107.630705]  [<ffffffffb1f011ea>] cpu_startup_entry+0x14a/0x1e0
+[5612107.630711]  [<ffffffffb1e5a7f7>] start_secondary+0x1f7/0x270
+[5612107.630717]  [<ffffffffb1e000d5>] start_cpu+0x5/0x14
+[5612107.630723] 
+
+ src: 83.226.10.1, dst: 34.55.0.12
+[5612107.630729] 
+show saddr : 10ae253, daddr c003722, hash 0
+[5612107.630733] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612125.533349] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612125.533355] __skb_get_hash name:handler179 pid:11725, sk ffffa0d003bbcd00
+
+[5612125.533363] CPU: 0 PID: 11725 Comm: handler179 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612125.533367] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612125.533370] Call Trace:
+[5612125.533380]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612125.533387]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612125.533393]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612125.533399]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612125.533404]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612125.533412]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612125.533417]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612125.533422]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612125.533428]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612125.533433]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612125.533439]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612125.533448]  [<ffffffffc0b1fedd>] ? reserve_sfa_size+0x2d/0xe0 [openvswitch]
+[5612125.533455]  [<ffffffffc0b0e7ba>] vxlan_xmit+0x64a/0xdd2 [vxlan]
+[5612125.533462]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612125.533467]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612125.533473]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612125.533481]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5612125.533488]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5612125.533495]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5612125.533502]  [<ffffffffc0b1fe69>] ? nla_alloc_flow_actions+0x39/0x80 [openvswitch]
+[5612125.533509]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5612125.533516]  [<ffffffffc0b1acdb>] ovs_packet_cmd_execute+0x2ab/0x2e0 [openvswitch]
+[5612125.533522]  [<ffffffffb2494228>] genl_family_rcv_msg+0x208/0x430
+[5612125.533529]  [<ffffffffb243e10d>] ? __alloc_skb+0x5d/0x2d0
+[5612125.533534]  [<ffffffffb24944ab>] genl_rcv_msg+0x5b/0xc0
+[5612125.533540]  [<ffffffffb2494450>] ? genl_family_rcv_msg+0x430/0x430
+[5612125.533544]  [<ffffffffb249249b>] netlink_rcv_skb+0xab/0xc0
+[5612125.533549]  [<ffffffffb24929d8>] genl_rcv+0x28/0x40
+[5612125.533554]  [<ffffffffb2491e20>] netlink_unicast+0x170/0x210
+[5612125.533559]  [<ffffffffb24921c8>] netlink_sendmsg+0x308/0x420
+[5612125.533564]  [<ffffffffb24343a6>] sock_sendmsg+0xb6/0xf0
+[5612125.533570]  [<ffffffffb25154bb>] ? unix_dgram_sendmsg+0x3cb/0x770
+[5612125.533575]  [<ffffffffb2435269>] ___sys_sendmsg+0x3e9/0x400
+[5612125.533582]  [<ffffffffb209cb59>] ? ep_scan_ready_list.isra.7+0x1b9/0x1f0
+[5612125.533588]  [<ffffffffb209ccd3>] ? ep_poll+0x123/0x360
+[5612125.533593]  [<ffffffffb2436921>] __sys_sendmsg+0x51/0x90
+[5612125.533598]  [<ffffffffb2436972>] SyS_sendmsg+0x12/0x20
+[5612125.533604]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5612125.533610]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612125.533615] 
+
+ src: 2.2.2.2, dst: 192.168.13.4
+[5612125.533620] 
+show saddr : 2020202, daddr 40da8c0, hash 0
+[5612125.533624] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612149.595765] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612149.595771] __skb_get_hash name:handler179 pid:11725, sk ffffa0cf9cbb6100
+
+[5612149.595781] CPU: 0 PID: 11725 Comm: handler179 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612149.595785] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612149.595788] Call Trace:
+[5612149.595798]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612149.595806]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612149.595812]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612149.595819]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612149.595825]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612149.595834]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612149.595839]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612149.595845]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612149.595851]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612149.595856]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612149.595863]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612149.595872]  [<ffffffffc0b1fedd>] ? reserve_sfa_size+0x2d/0xe0 [openvswitch]
+[5612149.595880]  [<ffffffffc0b0e7ba>] vxlan_xmit+0x64a/0xdd2 [vxlan]
+[5612149.595886]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612149.595893]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612149.595898]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612149.595908]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5612149.595915]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5612149.595922]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5612149.595930]  [<ffffffffc0b1fe69>] ? nla_alloc_flow_actions+0x39/0x80 [openvswitch]
+[5612149.595938]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5612149.595945]  [<ffffffffc0b1acdb>] ovs_packet_cmd_execute+0x2ab/0x2e0 [openvswitch]
+[5612149.595952]  [<ffffffffb2494228>] genl_family_rcv_msg+0x208/0x430
+[5612149.595959]  [<ffffffffb1ed735f>] ? ttwu_do_activate+0x6f/0x80
+[5612149.595965]  [<ffffffffb24944ab>] genl_rcv_msg+0x5b/0xc0
+[5612149.595971]  [<ffffffffb2494450>] ? genl_family_rcv_msg+0x430/0x430
+[5612149.595976]  [<ffffffffb249249b>] netlink_rcv_skb+0xab/0xc0
+[5612149.595981]  [<ffffffffb24929d8>] genl_rcv+0x28/0x40
+[5612149.595986]  [<ffffffffb2491e20>] netlink_unicast+0x170/0x210
+[5612149.595992]  [<ffffffffb24921c8>] netlink_sendmsg+0x308/0x420
+[5612149.595997]  [<ffffffffb24343a6>] sock_sendmsg+0xb6/0xf0
+[5612149.596004]  [<ffffffffb25154bb>] ? unix_dgram_sendmsg+0x3cb/0x770
+[5612149.596010]  [<ffffffffb2435269>] ___sys_sendmsg+0x3e9/0x400
+[5612149.596017]  [<ffffffffb209cb59>] ? ep_scan_ready_list.isra.7+0x1b9/0x1f0
+[5612149.596023]  [<ffffffffb209ccd3>] ? ep_poll+0x123/0x360
+[5612149.596029]  [<ffffffffb2436921>] __sys_sendmsg+0x51/0x90
+[5612149.596034]  [<ffffffffb2436972>] SyS_sendmsg+0x12/0x20
+[5612149.596040]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5612149.596047]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612149.596053] 
+
+ src: 2.2.2.2, dst: 192.168.13.4
+[5612149.596058] 
+show saddr : 2020202, daddr 40da8c0, hash 0
+[5612149.596063] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612157.857573] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612157.857579] __skb_get_hash name:swapper/21 pid:0, sk ffffa0d006b88400
+
+[5612157.857588] CPU: 21 PID: 0 Comm: swapper/21 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612157.857592] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612157.857594] Call Trace:
+[5612157.857598]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612157.857612]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612157.857618]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612157.857624]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612157.857629]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612157.857635]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612157.857639]  [<ffffffffb2451dc4>] ? __skb_tx_hash+0xa4/0xc0
+[5612157.857644]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612157.857649]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612157.857655]  [<ffffffffb243c6f7>] ? kfree_skbmem+0x37/0x90
+[5612157.857661]  [<ffffffffb1ede185>] ? sched_clock_cpu+0x85/0xc0
+[5612157.857666]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612157.857671]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612157.857675]  [<ffffffffb2451dc4>] ? __skb_tx_hash+0xa4/0xc0
+[5612157.857680]  [<ffffffffb24522ce>] __netdev_pick_tx+0x16e/0x180
+[5612157.857684]  [<ffffffffb1ed735f>] ? ttwu_do_activate+0x6f/0x80
+[5612157.857690]  [<ffffffffb2456e1b>] netdev_pick_tx+0xbb/0x110
+[5612157.857695]  [<ffffffffb2456fc1>] __dev_queue_xmit+0x151/0x650
+[5612157.857701]  [<ffffffffb243c6f7>] ? kfree_skbmem+0x37/0x90
+[5612157.857706]  [<ffffffffb243dbf4>] ? consume_skb+0x34/0x90
+[5612157.857711]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612157.857719]  [<ffffffffc0a45da5>] vlan_dev_hard_start_xmit+0x95/0x120 [8021q]
+[5612157.857725]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612157.857730]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612157.857735]  [<ffffffffb24574f3>] dev_queue_xmit_sk+0x13/0x20
+[5612157.857740]  [<ffffffffb24d48ba>] arp_xmit+0x3a/0xb0
+[5612157.857745]  [<ffffffffb24d44f3>] ? arp_create+0x1c3/0x230
+[5612157.857750]  [<ffffffffb24d4975>] arp_send_dst.part.16+0x45/0x50
+[5612157.857755]  [<ffffffffb24d5957>] arp_process+0x877/0x8e0
+[5612157.857761]  [<ffffffffb1ee70a8>] ? enqueue_task_fair+0x208/0x6c0
+[5612157.857766]  [<ffffffffb1ee7e04>] ? update_group_power+0x174/0x280
+[5612157.857782]  [<ffffffffb243caee>] ? __skb_clone+0x2e/0x150
+[5612157.857787]  [<ffffffffb24d5b0d>] arp_rcv+0x12d/0x1b0
+[5612157.857792]  [<ffffffffb255f91c>] ? packet_rcv+0x4c/0x430
+[5612157.857797]  [<ffffffffb2454eba>] __netif_receive_skb_core+0x9ca/0xa10
+[5612157.857802]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612157.857807]  [<ffffffffb2454fa0>] netif_receive_skb_internal+0x40/0xc0
+[5612157.857812]  [<ffffffffb2455c28>] napi_gro_receive+0xd8/0x100
+[5612157.857828]  [<ffffffffc0473b66>] igb_clean_rx_irq+0x356/0x800 [igb]
+[5612157.857842]  [<ffffffffc04743ab>] igb_poll+0x39b/0x790 [igb]
+[5612157.857846]  [<ffffffffb1f07602>] ? ktime_get+0x52/0xe0
+[5612157.857851]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612157.857858]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612157.857863]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612157.857869]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612157.857874]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5612157.857878]  [<ffffffffb2598936>] do_IRQ+0x56/0xf0
+[5612157.857885]  [<ffffffffb258a36a>] common_interrupt+0x16a/0x16a
+[5612157.857888]  <EOI>  [<ffffffffb23c7054>] ? cpuidle_enter_state+0x54/0xd0
+[5612157.857897]  [<ffffffffb23c71ae>] cpuidle_idle_call+0xde/0x230
+[5612157.857902]  [<ffffffffb1e37c8e>] arch_cpu_idle+0xe/0xc0
+[5612157.857908]  [<ffffffffb1f011ea>] cpu_startup_entry+0x14a/0x1e0
+[5612157.857914]  [<ffffffffb1e5a7f7>] start_secondary+0x1f7/0x270
+[5612157.857919]  [<ffffffffb1e000d5>] start_cpu+0x5/0x14
+[5612157.857924] 
+
+ src: 83.226.10.1, dst: 34.55.0.12
+[5612157.857930] 
+show saddr : 10ae253, daddr c003722, hash 0
+[5612157.857934] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612166.554891] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612166.554898] __skb_get_hash name:handler174 pid:11720, sk ffffa0cf9cbb7b00
+
+[5612166.554907] CPU: 0 PID: 11720 Comm: handler174 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612166.554911] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612166.554914] Call Trace:
+[5612166.554925]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612166.554931]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612166.554938]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612166.554945]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612166.554950]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612166.554959]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612166.554965]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612166.554970]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612166.554976]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612166.554982]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612166.554988]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612166.554997]  [<ffffffffc0b1fedd>] ? reserve_sfa_size+0x2d/0xe0 [openvswitch]
+[5612166.555005]  [<ffffffffc0b0e7ba>] vxlan_xmit+0x64a/0xdd2 [vxlan]
+[5612166.555012]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612166.555018]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612166.555024]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612166.555033]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5612166.555040]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5612166.555047]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5612166.555055]  [<ffffffffc0b1fe69>] ? nla_alloc_flow_actions+0x39/0x80 [openvswitch]
+[5612166.555062]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5612166.555070]  [<ffffffffc0b1acdb>] ovs_packet_cmd_execute+0x2ab/0x2e0 [openvswitch]
+[5612166.555077]  [<ffffffffb2494228>] genl_family_rcv_msg+0x208/0x430
+[5612166.555083]  [<ffffffffb24944ab>] genl_rcv_msg+0x5b/0xc0
+[5612166.555089]  [<ffffffffb2494450>] ? genl_family_rcv_msg+0x430/0x430
+[5612166.555094]  [<ffffffffb249249b>] netlink_rcv_skb+0xab/0xc0
+[5612166.555099]  [<ffffffffb24929d8>] genl_rcv+0x28/0x40
+[5612166.555104]  [<ffffffffb2491e20>] netlink_unicast+0x170/0x210
+[5612166.555109]  [<ffffffffb24921c8>] netlink_sendmsg+0x308/0x420
+[5612166.555115]  [<ffffffffb24343a6>] sock_sendmsg+0xb6/0xf0
+[5612166.555121]  [<ffffffffb25154bb>] ? unix_dgram_sendmsg+0x3cb/0x770
+[5612166.555127]  [<ffffffffb2435269>] ___sys_sendmsg+0x3e9/0x400
+[5612166.555133]  [<ffffffffb2434b2e>] ? SYSC_sendto+0x17e/0x1c0
+[5612166.555139]  [<ffffffffb2436921>] __sys_sendmsg+0x51/0x90
+[5612166.555144]  [<ffffffffb2436972>] SyS_sendmsg+0x12/0x20
+[5612166.555151]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5612166.555157]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612166.555163] 
+
+ src: 3.3.3.1, dst: 10.10.10.3
+[5612166.555168] 
+show saddr : 1030303, daddr 30a0a0a, hash 0
+[5612166.555173] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612193.476313] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612193.476318] __skb_get_hash name:swapper/21 pid:0, sk ffffa0cfa93f5600
+
+[5612193.476327] CPU: 21 PID: 0 Comm: swapper/21 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612193.476330] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612193.476333] Call Trace:
+[5612193.476336]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612193.476349]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612193.476355]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612193.476360]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612193.476365]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612193.476370]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612193.476374]  [<ffffffffb2451dc4>] ? __skb_tx_hash+0xa4/0xc0
+[5612193.476379]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612193.476383]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612193.476389]  [<ffffffffb243c6f7>] ? kfree_skbmem+0x37/0x90
+[5612193.476395]  [<ffffffffb1ede185>] ? sched_clock_cpu+0x85/0xc0
+[5612193.476399]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612193.476404]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612193.476407]  [<ffffffffb2451dc4>] ? __skb_tx_hash+0xa4/0xc0
+[5612193.476412]  [<ffffffffb24522ce>] __netdev_pick_tx+0x16e/0x180
+[5612193.476416]  [<ffffffffb1ed735f>] ? ttwu_do_activate+0x6f/0x80
+[5612193.476421]  [<ffffffffb2456e1b>] netdev_pick_tx+0xbb/0x110
+[5612193.476426]  [<ffffffffb2456fc1>] __dev_queue_xmit+0x151/0x650
+[5612193.476431]  [<ffffffffb243c6f7>] ? kfree_skbmem+0x37/0x90
+[5612193.476436]  [<ffffffffb243dbf4>] ? consume_skb+0x34/0x90
+[5612193.476441]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612193.476448]  [<ffffffffc0a45da5>] vlan_dev_hard_start_xmit+0x95/0x120 [8021q]
+[5612193.476453]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612193.476458]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612193.476463]  [<ffffffffb24574f3>] dev_queue_xmit_sk+0x13/0x20
+[5612193.476467]  [<ffffffffb24d48ba>] arp_xmit+0x3a/0xb0
+[5612193.476472]  [<ffffffffb24d44f3>] ? arp_create+0x1c3/0x230
+[5612193.476477]  [<ffffffffb24d4975>] arp_send_dst.part.16+0x45/0x50
+[5612193.476481]  [<ffffffffb24d5957>] arp_process+0x877/0x8e0
+[5612193.476486]  [<ffffffffb1ed3101>] ? __wake_up_common_lock+0x91/0xc0
+[5612193.476492]  [<ffffffffb1ed2ba0>] ? task_rq_unlock+0x20/0x20
+[5612193.476505]  [<ffffffffb243caee>] ? __skb_clone+0x2e/0x150
+[5612193.476510]  [<ffffffffb24d5b0d>] arp_rcv+0x12d/0x1b0
+[5612193.476514]  [<ffffffffb255f91c>] ? packet_rcv+0x4c/0x430
+[5612193.476519]  [<ffffffffb2454eba>] __netif_receive_skb_core+0x9ca/0xa10
+[5612193.476524]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612193.476528]  [<ffffffffb2454fa0>] netif_receive_skb_internal+0x40/0xc0
+[5612193.476533]  [<ffffffffb2455c28>] napi_gro_receive+0xd8/0x100
+[5612193.476547]  [<ffffffffc0473b66>] igb_clean_rx_irq+0x356/0x800 [igb]
+[5612193.476560]  [<ffffffffc04743ab>] igb_poll+0x39b/0x790 [igb]
+[5612193.476567]  [<ffffffffb1ec88f1>] ? run_posix_cpu_timers+0x51/0x830
+[5612193.476571]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612193.476577]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612193.476582]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612193.476587]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612193.476592]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5612193.476596]  [<ffffffffb2598936>] do_IRQ+0x56/0xf0
+[5612193.476602]  [<ffffffffb258a36a>] common_interrupt+0x16a/0x16a
+[5612193.476604]  <EOI>  [<ffffffffb23c7054>] ? cpuidle_enter_state+0x54/0xd0
+[5612193.476613]  [<ffffffffb23c71ae>] cpuidle_idle_call+0xde/0x230
+[5612193.476618]  [<ffffffffb1e37c8e>] arch_cpu_idle+0xe/0xc0
+[5612193.476623]  [<ffffffffb1f011ea>] cpu_startup_entry+0x14a/0x1e0
+[5612193.476629]  [<ffffffffb1e5a7f7>] start_secondary+0x1f7/0x270
+[5612193.476633]  [<ffffffffb1e000d5>] start_cpu+0x5/0x14
+[5612193.476639] 
+
+ src: 83.226.10.1, dst: 34.55.0.12
+[5612193.476644] 
+show saddr : 10ae253, daddr c003722, hash 0
+[5612193.476647] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612197.656815] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612197.656821] __skb_get_hash name:handler179 pid:11725, sk ffffa0cfa93d9800
+
+[5612197.656829] CPU: 1 PID: 11725 Comm: handler179 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612197.656833] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612197.656835] Call Trace:
+[5612197.656845]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612197.656852]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612197.656858]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612197.656864]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612197.656869]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612197.656877]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612197.656882]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612197.656887]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612197.656893]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612197.656898]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612197.656904]  [<ffffffffc0b0c2f2>] ? vxlan_xmit_one+0x272/0xba0 [vxlan]
+[5612197.656912]  [<ffffffffc0b1fedd>] ? reserve_sfa_size+0x2d/0xe0 [openvswitch]
+[5612197.656920]  [<ffffffffc0b0e7ba>] vxlan_xmit+0x64a/0xdd2 [vxlan]
+[5612197.656926]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612197.656932]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612197.656937]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612197.656946]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5612197.656952]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5612197.656959]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5612197.656967]  [<ffffffffc0b1fe69>] ? nla_alloc_flow_actions+0x39/0x80 [openvswitch]
+[5612197.656973]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5612197.656980]  [<ffffffffc0b1acdb>] ovs_packet_cmd_execute+0x2ab/0x2e0 [openvswitch]
+[5612197.656987]  [<ffffffffb2494228>] genl_family_rcv_msg+0x208/0x430
+[5612197.656993]  [<ffffffffb2025e0d>] ? __slab_free+0x9d/0x290
+[5612197.656999]  [<ffffffffb24944ab>] genl_rcv_msg+0x5b/0xc0
+[5612197.657004]  [<ffffffffb2494450>] ? genl_family_rcv_msg+0x430/0x430
+[5612197.657009]  [<ffffffffb249249b>] netlink_rcv_skb+0xab/0xc0
+[5612197.657014]  [<ffffffffb24929d8>] genl_rcv+0x28/0x40
+[5612197.657019]  [<ffffffffb2491e20>] netlink_unicast+0x170/0x210
+[5612197.657024]  [<ffffffffb24921c8>] netlink_sendmsg+0x308/0x420
+[5612197.657029]  [<ffffffffb24343a6>] sock_sendmsg+0xb6/0xf0
+[5612197.657035]  [<ffffffffb25154bb>] ? unix_dgram_sendmsg+0x3cb/0x770
+[5612197.657040]  [<ffffffffb2435269>] ___sys_sendmsg+0x3e9/0x400
+[5612197.657047]  [<ffffffffb209cb59>] ? ep_scan_ready_list.isra.7+0x1b9/0x1f0
+[5612197.657052]  [<ffffffffb209ccd3>] ? ep_poll+0x123/0x360
+[5612197.657057]  [<ffffffffb2436921>] __sys_sendmsg+0x51/0x90
+[5612197.657062]  [<ffffffffb2436972>] SyS_sendmsg+0x12/0x20
+[5612197.657068]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5612197.657074]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5612197.657079] 
+
+ src: 2.2.2.2, dst: 192.168.13.4
+[5612197.657084] 
+show saddr : 2020202, daddr 40da8c0, hash 0
+[5612197.657088] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246
+[5612229.083233] vxlan pre_handler : p->addr = 0xffffffffc0b6b10f, ip = ffffffffb244bb60,
+[5612229.083239] __skb_get_hash name:swapper/21 pid:0, sk ffffa0cfa93f4a00
+
+[5612229.083250] CPU: 21 PID: 0 Comm: swapper/21 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5612229.083253] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5612229.083256] Call Trace:
+[5612229.083261]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5612229.083275]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x16d [kprobe_vxlan]
+[5612229.083282]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612229.083289]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5612229.083294]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612229.083300]  [<ffffffffb244bb60>] ? __skb_flow_dissect+0x1190/0x1190
+[5612229.083305]  [<ffffffffb2451dc4>] ? __skb_tx_hash+0xa4/0xc0
+[5612229.083310]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5612229.083316]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5612229.083322]  [<ffffffffb243c6f7>] ? kfree_skbmem+0x37/0x90
+[5612229.083329]  [<ffffffffb1ede185>] ? sched_clock_cpu+0x85/0xc0
+[5612229.083334]  [<ffffffffb244bb61>] ? __skb_get_hash+0x1/0x310
+[5612229.083339]  [<ffffffffb244bb65>] ? __skb_get_hash+0x5/0x310
+[5612229.083344]  [<ffffffffb2451dc4>] ? __skb_tx_hash+0xa4/0xc0
+[5612229.083349]  [<ffffffffb24522ce>] __netdev_pick_tx+0x16e/0x180
+[5612229.083354]  [<ffffffffb1ed735f>] ? ttwu_do_activate+0x6f/0x80
+[5612229.083360]  [<ffffffffb2456e1b>] netdev_pick_tx+0xbb/0x110
+[5612229.083365]  [<ffffffffb2456fc1>] __dev_queue_xmit+0x151/0x650
+[5612229.083371]  [<ffffffffb243c6f7>] ? kfree_skbmem+0x37/0x90
+[5612229.083377]  [<ffffffffb243dbf4>] ? consume_skb+0x34/0x90
+[5612229.083382]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5612229.083391]  [<ffffffffc0a45da5>] vlan_dev_hard_start_xmit+0x95/0x120 [8021q]
+[5612229.083397]  [<ffffffffb2454386>] dev_hard_start_xmit+0x246/0x3b0
+[5612229.083402]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5612229.083408]  [<ffffffffb24574f3>] dev_queue_xmit_sk+0x13/0x20
+[5612229.083414]  [<ffffffffb24d48ba>] arp_xmit+0x3a/0xb0
+[5612229.083419]  [<ffffffffb24d44f3>] ? arp_create+0x1c3/0x230
+[5612229.083424]  [<ffffffffb24d4975>] arp_send_dst.part.16+0x45/0x50
+[5612229.083430]  [<ffffffffb24d5957>] arp_process+0x877/0x8e0
+[5612229.083435]  [<ffffffffb1ed3101>] ? __wake_up_common_lock+0x91/0xc0
+[5612229.083441]  [<ffffffffb1ed2ba0>] ? task_rq_unlock+0x20/0x20
+[5612229.083457]  [<ffffffffb243caee>] ? __skb_clone+0x2e/0x150
+[5612229.083462]  [<ffffffffb24d5b0d>] arp_rcv+0x12d/0x1b0
+[5612229.083468]  [<ffffffffb255f91c>] ? packet_rcv+0x4c/0x430
+[5612229.083473]  [<ffffffffb2454eba>] __netif_receive_skb_core+0x9ca/0xa10
+[5612229.083479]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5612229.083484]  [<ffffffffb2454fa0>] netif_receive_skb_internal+0x40/0xc0
+[5612229.083490]  [<ffffffffb2455c28>] napi_gro_receive+0xd8/0x100
+[5612229.083506]  [<ffffffffc0473b66>] igb_clean_rx_irq+0x356/0x800 [igb]
+[5612229.083521]  [<ffffffffc04743ab>] igb_poll+0x39b/0x790 [igb]
+[5612229.083526]  [<ffffffffb1f07602>] ? ktime_get+0x52/0xe0
+[5612229.083532]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5612229.083538]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5612229.083544]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5612229.083549]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5612229.083555]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5612229.083560]  [<ffffffffb2598936>] do_IRQ+0x56/0xf0
+[5612229.083567]  [<ffffffffb258a36a>] common_interrupt+0x16a/0x16a
+[5612229.083570]  <EOI>  [<ffffffffb23c7054>] ? cpuidle_enter_state+0x54/0xd0
+[5612229.083580]  [<ffffffffb23c71ae>] cpuidle_idle_call+0xde/0x230
+[5612229.083586]  [<ffffffffb1e37c8e>] arch_cpu_idle+0xe/0xc0
+[5612229.083592]  [<ffffffffb1f011ea>] cpu_startup_entry+0x14a/0x1e0
+[5612229.083598]  [<ffffffffb1e5a7f7>] start_secondary+0x1f7/0x270
+[5612229.083603]  [<ffffffffb1e000d5>] start_cpu+0x5/0x14
+[5612229.083610] 
+
+ src: 83.226.10.1, dst: 34.55.0.12
+[5612229.083616] 
+show saddr : 10ae253, daddr c003722, hash 0
+[5612229.083620] post_handler : p->addr = 0xffffffffb244bb60, flags = 0x246

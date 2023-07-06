@@ -1,0 +1,2694 @@
+[5646466.983483] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983504] not return rx dev eno5
+[5646466.983507] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983510] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983530] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983534] not return rx dev eno5
+[5646466.983537] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983540] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983547] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983551] not return rx dev eno5
+[5646466.983554] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983557] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983563] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983568] not return rx dev eno5
+[5646466.983570] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983573] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983579] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983583] not return rx dev eno5
+[5646466.983586] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983589] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983595] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983599] not return rx dev eno5
+[5646466.983602] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983604] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983610] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983614] not return rx dev eno5
+[5646466.983617] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983620] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983627] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983631] not return rx dev eno5
+[5646466.983634] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983636] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983643] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983647] not return rx dev eno5
+[5646466.983649] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983652] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983658] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983662] not return rx dev eno5
+[5646466.983665] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983667] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983674] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983677] not return rx dev eno5
+[5646466.983680] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983683] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983689] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983693] not return rx dev eno5
+[5646466.983695] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983698] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983704] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983708] not return rx dev eno5
+[5646466.983711] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983714] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983720] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983724] not return rx dev eno5
+[5646466.983726] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983729] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983735] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983739] not return rx dev eno5
+[5646466.983741] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983744] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983750] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983754] not return rx dev eno5
+[5646466.983757] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983760] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983766] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bed100
+
+[5646466.983769] not return rx dev eno5
+[5646466.983772] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646466.983775] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.053963] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90900
+
+[5646467.053971] not return rx dev eno5
+[5646467.053974] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.053978] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128468] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128476] not return rx dev eno5
+[5646467.128479] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128483] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128505] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128509] not return rx dev eno5
+[5646467.128512] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128515] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128523] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128527] not return rx dev eno5
+[5646467.128530] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128533] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128540] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128545] not return rx dev eno5
+[5646467.128548] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128550] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128557] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128562] not return rx dev eno5
+[5646467.128565] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128567] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128575] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128580] not return rx dev eno5
+[5646467.128583] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128586] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128592] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128597] not return rx dev eno5
+[5646467.128599] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128602] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128609] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128613] not return rx dev eno5
+[5646467.128616] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128619] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128626] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128630] not return rx dev eno5
+[5646467.128633] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128636] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128643] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128647] not return rx dev eno5
+[5646467.128650] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128652] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128659] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128663] not return rx dev eno5
+[5646467.128666] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128669] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128676] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128680] not return rx dev eno5
+[5646467.128683] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128686] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128693] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128697] not return rx dev eno5
+[5646467.128700] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128702] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128709] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128713] not return rx dev eno5
+[5646467.128716] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128719] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128726] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128730] not return rx dev eno5
+[5646467.128733] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128736] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128742] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128747] not return rx dev eno5
+[5646467.128750] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128753] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128760] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128764] not return rx dev eno5
+[5646467.128767] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128770] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128776] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128781] not return rx dev eno5
+[5646467.128784] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128786] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128793] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90300
+
+[5646467.128797] not return rx dev eno5
+[5646467.128800] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.128803] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.383920] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4beda00
+
+[5646467.383928] not return rx dev eno5
+[5646467.383931] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.383935] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.590161] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d01679ac00
+
+[5646467.590169] not return rx dev eno5
+[5646467.590173] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.590176] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.689955] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d01679b900
+
+[5646467.689963] not return rx dev eno5
+[5646467.689966] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.689969] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985820] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.985840] not return rx dev eno5
+[5646467.985843] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985846] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985866] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.985870] not return rx dev eno5
+[5646467.985873] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985876] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985883] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.985887] not return rx dev eno5
+[5646467.985890] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985893] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985899] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.985903] not return rx dev eno5
+[5646467.985906] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985909] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985915] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.985919] not return rx dev eno5
+[5646467.985922] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985924] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985931] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.985935] not return rx dev eno5
+[5646467.985937] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985940] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985946] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.985950] not return rx dev eno5
+[5646467.985953] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985956] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985962] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.985966] not return rx dev eno5
+[5646467.985969] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985971] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985978] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.985982] not return rx dev eno5
+[5646467.985984] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985987] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.985993] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.985998] not return rx dev eno5
+[5646467.986000] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986003] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986009] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.986013] not return rx dev eno5
+[5646467.986016] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986019] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986025] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.986029] not return rx dev eno5
+[5646467.986032] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986034] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986041] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.986045] not return rx dev eno5
+[5646467.986047] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986050] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986056] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.986060] not return rx dev eno5
+[5646467.986063] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986066] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986072] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.986076] not return rx dev eno5
+[5646467.986078] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986081] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986089] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.986093] not return rx dev eno5
+[5646467.986095] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986098] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986104] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad500
+
+[5646467.986108] not return rx dev eno5
+[5646467.986111] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646467.986114] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121841] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.121849] not return rx dev eno5
+[5646468.121852] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121855] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121877] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.121881] not return rx dev eno5
+[5646468.121884] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121887] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121895] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.121899] not return rx dev eno5
+[5646468.121902] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121905] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121912] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.121916] not return rx dev eno5
+[5646468.121919] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121922] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121929] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.121933] not return rx dev eno5
+[5646468.121936] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121939] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121945] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.121950] not return rx dev eno5
+[5646468.121953] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121955] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121962] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.121967] not return rx dev eno5
+[5646468.121969] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121972] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121979] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.121984] not return rx dev eno5
+[5646468.121987] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121990] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.121997] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.122001] not return rx dev eno5
+[5646468.122004] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122007] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122014] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.122018] not return rx dev eno5
+[5646468.122021] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122024] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122030] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.122035] not return rx dev eno5
+[5646468.122038] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122040] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122047] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.122051] not return rx dev eno5
+[5646468.122054] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122057] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122064] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.122068] not return rx dev eno5
+[5646468.122071] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122074] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122081] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.122085] not return rx dev eno5
+[5646468.122088] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122091] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122099] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.122103] not return rx dev eno5
+[5646468.122106] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122109] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122115] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.122119] not return rx dev eno5
+[5646468.122122] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122125] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122132] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.122136] not return rx dev eno5
+[5646468.122139] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122142] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122149] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.122153] not return rx dev eno5
+[5646468.122156] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122159] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122165] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d024398600
+
+[5646468.122169] not return rx dev eno5
+[5646468.122172] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.122175] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.591340] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9500
+
+[5646468.591348] not return rx dev eno5
+[5646468.591351] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.591355] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.692123] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9b00
+
+[5646468.692131] not return rx dev eno5
+[5646468.692135] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.692138] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.832567] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9500
+
+[5646468.832575] not return rx dev eno5
+[5646468.832578] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.832581] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988107] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988127] not return rx dev eno5
+[5646468.988130] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988133] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988153] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988158] not return rx dev eno5
+[5646468.988161] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988163] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988171] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988175] not return rx dev eno5
+[5646468.988177] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988180] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988187] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988191] not return rx dev eno5
+[5646468.988193] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988196] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988202] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988206] not return rx dev eno5
+[5646468.988209] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988212] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988218] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988222] not return rx dev eno5
+[5646468.988224] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988227] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988233] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988237] not return rx dev eno5
+[5646468.988240] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988242] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988249] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988253] not return rx dev eno5
+[5646468.988255] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988258] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988265] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988269] not return rx dev eno5
+[5646468.988272] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988274] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988281] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988285] not return rx dev eno5
+[5646468.988287] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988290] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988296] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988300] not return rx dev eno5
+[5646468.988303] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988305] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988312] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988316] not return rx dev eno5
+[5646468.988318] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988321] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988327] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988331] not return rx dev eno5
+[5646468.988334] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988336] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988342] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988346] not return rx dev eno5
+[5646468.988349] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988352] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988358] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988362] not return rx dev eno5
+[5646468.988364] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988367] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988373] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988377] not return rx dev eno5
+[5646468.988380] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988383] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988389] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f500
+
+[5646468.988393] not return rx dev eno5
+[5646468.988396] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646468.988399] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.105445] vxlan pre_handler : p->addr = 0xffffffffc0b6b170, ip = ffffffffc0b0e170,
+[5646469.105452] vxlan_xmit name:handler175 pid:11721, sk ffffa0cf97f9e300
+
+[5646469.105463] CPU: 0 PID: 11721 Comm: handler175 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5646469.105466] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5646469.105470] Call Trace:
+[5646469.105489]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5646469.105497]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x1ed [kprobe_vxlan]
+[5646469.105513]  [<ffffffffc0b22208>] ? validate_and_copy_set_tun+0x1c8/0x320 [openvswitch]
+[5646469.105522]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5646469.105531]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.105537]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.105547]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.105556]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5646469.105563]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5646469.105570]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.105577]  [<ffffffffc0b0e171>] ? vxlan_xmit+0x1/0xdd2 [vxlan]
+[5646469.105583]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.105588]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.105595]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5646469.105601]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5646469.105610]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5646469.105618]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5646469.105625]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5646469.105633]  [<ffffffffc0b1fe69>] ? nla_alloc_flow_actions+0x39/0x80 [openvswitch]
+[5646469.105641]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5646469.105648]  [<ffffffffc0b1acdb>] ovs_packet_cmd_execute+0x2ab/0x2e0 [openvswitch]
+[5646469.105659]  [<ffffffffb2494228>] genl_family_rcv_msg+0x208/0x430
+[5646469.105668]  [<ffffffffb2025e0d>] ? __slab_free+0x9d/0x290
+[5646469.105674]  [<ffffffffb24944ab>] genl_rcv_msg+0x5b/0xc0
+[5646469.105679]  [<ffffffffb2494450>] ? genl_family_rcv_msg+0x430/0x430
+[5646469.105685]  [<ffffffffb249249b>] netlink_rcv_skb+0xab/0xc0
+[5646469.105690]  [<ffffffffb24929d8>] genl_rcv+0x28/0x40
+[5646469.105696]  [<ffffffffb2491e20>] netlink_unicast+0x170/0x210
+[5646469.105701]  [<ffffffffb24921c8>] netlink_sendmsg+0x308/0x420
+[5646469.105708]  [<ffffffffb24343a6>] sock_sendmsg+0xb6/0xf0
+[5646469.105718]  [<ffffffffb25154bb>] ? unix_dgram_sendmsg+0x3cb/0x770
+[5646469.105724]  [<ffffffffb2435269>] ___sys_sendmsg+0x3e9/0x400
+[5646469.105730]  [<ffffffffb2434b2e>] ? SYSC_sendto+0x17e/0x1c0
+[5646469.105736]  [<ffffffffb2436921>] __sys_sendmsg+0x51/0x90
+[5646469.105741]  [<ffffffffb2436972>] SyS_sendmsg+0x12/0x20
+[5646469.105749]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5646469.105755]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.105761] 
+
+ src: 3.3.3.1, dst: 10.10.10.3
+[5646469.105766] 
+show saddr : 1030303, daddr 30a0a0a, hash 0
+[5646469.105770] pre skb_get_hash l4_hash 0, sw_hash 0
+[5646469.105776] post skb_get_hash 1998192894, l4_hash 1, sw_hash 1
+[5646469.105780] post_handler : p->addr = 0xffffffffc0b0e170, flags = 0x246
+[5646469.106251] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.106256] not return rx dev eno5
+[5646469.106260] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.106263] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.106357] ixgbe_process_skb_fields name:swapper/23 pid:0, sk ffffa0cfbf3f5600
+
+[5646469.106366] not return rx dev eno5
+[5646469.106369] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.106372] handler pre : after show : hash 882889158, l4_hash 0, sw_hash 0
+[5646469.107330] vxlan pre_handler : p->addr = 0xffffffffc0b6b170, ip = ffffffffc0b0e170,
+[5646469.107338] vxlan_xmit name:handler174 pid:11720, sk ffffa0cfbf3f5300
+
+[5646469.107347] CPU: 23 PID: 11720 Comm: handler174 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5646469.107351] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5646469.107354] Call Trace:
+[5646469.107365]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5646469.107372]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x1ed [kprobe_vxlan]
+[5646469.107383]  [<ffffffffc0b22208>] ? validate_and_copy_set_tun+0x1c8/0x320 [openvswitch]
+[5646469.107390]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5646469.107398]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.107404]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.107411]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.107416]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5646469.107422]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5646469.107430]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.107439]  [<ffffffffc0b0e171>] ? vxlan_xmit+0x1/0xdd2 [vxlan]
+[5646469.107445]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.107450]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.107457]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5646469.107463]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5646469.107472]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5646469.107479]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5646469.107486]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5646469.107495]  [<ffffffffc0b1fe69>] ? nla_alloc_flow_actions+0x39/0x80 [openvswitch]
+[5646469.107502]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5646469.107510]  [<ffffffffc0b1acdb>] ovs_packet_cmd_execute+0x2ab/0x2e0 [openvswitch]
+[5646469.107517]  [<ffffffffb2494228>] genl_family_rcv_msg+0x208/0x430
+[5646469.107526]  [<ffffffffb24944ab>] genl_rcv_msg+0x5b/0xc0
+[5646469.107531]  [<ffffffffb2494450>] ? genl_family_rcv_msg+0x430/0x430
+[5646469.107536]  [<ffffffffb249249b>] netlink_rcv_skb+0xab/0xc0
+[5646469.107542]  [<ffffffffb24929d8>] genl_rcv+0x28/0x40
+[5646469.107547]  [<ffffffffb2491e20>] netlink_unicast+0x170/0x210
+[5646469.107552]  [<ffffffffb24921c8>] netlink_sendmsg+0x308/0x420
+[5646469.107557]  [<ffffffffb24343a6>] sock_sendmsg+0xb6/0xf0
+[5646469.107564]  [<ffffffffb25154bb>] ? unix_dgram_sendmsg+0x3cb/0x770
+[5646469.107570]  [<ffffffffb2435269>] ___sys_sendmsg+0x3e9/0x400
+[5646469.107580]  [<ffffffffb209cb59>] ? ep_scan_ready_list.isra.7+0x1b9/0x1f0
+[5646469.107586]  [<ffffffffb209ccd3>] ? ep_poll+0x123/0x360
+[5646469.107592]  [<ffffffffb2436921>] __sys_sendmsg+0x51/0x90
+[5646469.107600]  [<ffffffffb2436972>] SyS_sendmsg+0x12/0x20
+[5646469.107606]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5646469.107613]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.107618] 
+
+ src: 2.2.2.2, dst: 192.168.4.3
+[5646469.107624] 
+show saddr : 2020202, daddr 304a8c0, hash 0
+[5646469.107628] pre skb_get_hash l4_hash 0, sw_hash 0
+[5646469.107632] post skb_get_hash 2533631666, l4_hash 1, sw_hash 1
+[5646469.107636] post_handler : p->addr = 0xffffffffc0b0e170, flags = 0x246
+[5646469.107793] ixgbe_process_skb_fields name:swapper/2 pid:0, sk ffffa0d017795700
+
+[5646469.107801] not return rx dev eno5
+[5646469.107804] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.107807] handler pre : after show : hash 848950696, l4_hash 0, sw_hash 0
+[5646469.108369] vxlan pre_handler : p->addr = 0xffffffffc0b6b170, ip = ffffffffc0b0e170,
+[5646469.108374] vxlan_xmit name:handler184 pid:11729, sk ffffa0d017795c00
+
+[5646469.108383] CPU: 2 PID: 11729 Comm: handler184 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5646469.108387] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5646469.108390] Call Trace:
+[5646469.108394]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5646469.108410]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x1ed [kprobe_vxlan]
+[5646469.108440]  [<ffffffffb1eae944>] ? mod_timer_pending+0x74/0x1a0
+[5646469.108446]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5646469.108455]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.108461]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.108468]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.108477]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5646469.108482]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5646469.108489]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.108495]  [<ffffffffc0b0e171>] ? vxlan_xmit+0x1/0xdd2 [vxlan]
+[5646469.108501]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.108506]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.108511]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5646469.108517]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5646469.108527] vxlan pre_handler : p->addr = 0xffffffffc0b6b170, ip = ffffffffc0b0e170,
+[5646469.108527] vxlan_xmit name:wget pid:22890, sk ffffa0cfae7808f8
+
+[5646469.108538]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5646469.108547]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5646469.108555]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5646469.108563]  [<ffffffffb24a37a4>] ? ip_queue_xmit+0x144/0x3c0
+[5646469.108568]  [<ffffffffb24bde94>] ? tcp_transmit_skb+0x4e4/0x9e0
+[5646469.108575]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5646469.108582]  [<ffffffffc0b1b844>] ovs_dp_process_packet+0x84/0x120 [openvswitch]
+[5646469.108590]  [<ffffffffc0b26674>] ? ovs_ct_update_key+0xc4/0x150 [openvswitch]
+[5646469.108598]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5646469.108603]  [<ffffffffb24c581b>] ? tcp_v4_do_rcv+0x17b/0x350
+[5646469.108616]  [<ffffffffb24c7011>] ? tcp_v4_rcv+0x7f1/0x9e0
+[5646469.108622] CPU: 17 PID: 22890 Comm: wget Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5646469.108626] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5646469.108629] Call Trace:
+[5646469.108644]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5646469.108649]  [<ffffffffc06e82ce>] ? ipv4_confirm+0x4e/0x100 [nf_conntrack_ipv4]
+[5646469.108655]  [<ffffffffb249eef0>] ? ip_rcv_finish+0x90/0x370
+[5646469.108660]  [<ffffffffb249f8c0>] ? ip_rcv+0x2c0/0x420
+[5646469.108668]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5646469.108674]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5646469.108680]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5646469.108686]  [<ffffffffb2455eee>] process_backlog+0xae/0x180
+[5646469.108691]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5646469.108699]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5646469.108705]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5646469.108719]  <EOI>  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5646469.108727]  [<ffffffffb1ea3feb>] __local_bh_enable_ip+0x9b/0xb0
+[5646469.108731]  [<ffffffffb1ea4017>] local_bh_enable+0x17/0x20
+[5646469.108738]  [<ffffffffc0b1ace2>] ovs_packet_cmd_execute+0x2b2/0x2e0 [openvswitch]
+[5646469.108746]  [<ffffffffb2494228>] genl_family_rcv_msg+0x208/0x430
+[5646469.108751]  [<ffffffffb24944ab>] genl_rcv_msg+0x5b/0xc0
+[5646469.108757]  [<ffffffffb2494450>] ? genl_family_rcv_msg+0x430/0x430
+[5646469.108761]  [<ffffffffb249249b>] netlink_rcv_skb+0xab/0xc0
+[5646469.108769]  [<ffffffffb24929d8>] genl_rcv+0x28/0x40
+[5646469.108776]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x1ed [kprobe_vxlan]
+[5646469.108783]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5646469.108793]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.108801]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.108807]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.108814]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5646469.108820]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5646469.108832]  [<ffffffffc0b1cd33>] ? ovs_flow_stats_update+0x103/0x160 [openvswitch]
+[5646469.108843]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.108852]  [<ffffffffc0b0e171>] ? vxlan_xmit+0x1/0xdd2 [vxlan]
+[5646469.108859]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.108866]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.108873]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5646469.108886]  [<ffffffffb1ed2ba0>] ? task_rq_unlock+0x20/0x20
+[5646469.108892]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5646469.108903]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5646469.108912]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5646469.108920]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5646469.108927]  [<ffffffffb2491e8b>] ? netlink_unicast+0x1db/0x210
+[5646469.108934]  [<ffffffffb2441a1b>] ? skb_zerocopy+0x1fb/0x380
+[5646469.108942]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5646469.108951]  [<ffffffffb2491e20>] netlink_unicast+0x170/0x210
+[5646469.108958]  [<ffffffffc0b1b844>] ovs_dp_process_packet+0x84/0x120 [openvswitch]
+[5646469.108969]  [<ffffffffc0b26674>] ? ovs_ct_update_key+0xc4/0x150 [openvswitch]
+[5646469.108981]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5646469.108994]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5646469.108997]  [<ffffffffb24921c8>] netlink_sendmsg+0x308/0x420
+[5646469.109003]  [<ffffffffb24343a6>] sock_sendmsg+0xb6/0xf0
+[5646469.109010]  [<ffffffffb25154bb>] ? unix_dgram_sendmsg+0x3cb/0x770
+[5646469.109016]  [<ffffffffb2435269>] ___sys_sendmsg+0x3e9/0x400
+[5646469.109023]  [<ffffffffb209cb59>] ? ep_scan_ready_list.isra.7+0x1b9/0x1f0
+[5646469.109027]  [<ffffffffb209ccd3>] ? ep_poll+0x123/0x360
+[5646469.109033]  [<ffffffffb2436921>] __sys_sendmsg+0x51/0x90
+[5646469.109038]  [<ffffffffb2436972>] SyS_sendmsg+0x12/0x20
+[5646469.109044]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5646469.109051]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.109056] 
+
+ src: 3.3.3.1, dst: 10.10.10.3
+[5646469.109061] 
+show saddr : 1030303, daddr 30a0a0a, hash 1394490473
+[5646469.109064] pre skb_get_hash l4_hash 1, sw_hash 0
+[5646469.109072] post skb_get_hash 1998192894, l4_hash 1, sw_hash 1
+[5646469.109078] post_handler : p->addr = 0xffffffffc0b0e170, flags = 0x246
+[5646469.109095]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5646469.109106]  [<ffffffffb1eea109>] ? trigger_load_balance+0x59/0x240
+[5646469.109114]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5646469.109123]  [<ffffffffb2455eee>] process_backlog+0xae/0x180
+[5646469.109131]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5646469.109141]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5646469.109149]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5646469.109153]  <EOI>  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5646469.109168]  [<ffffffffb1ea3feb>] __local_bh_enable_ip+0x9b/0xb0
+[5646469.109175]  [<ffffffffb1ea4017>] local_bh_enable+0x17/0x20
+[5646469.109183]  [<ffffffffb24a5064>] ip_finish_output+0x284/0x8d0
+[5646469.109191]  [<ffffffffb24a59db>] ip_output+0x7b/0xf0
+[5646469.109199]  [<ffffffffb24a4de0>] ? __ip_append_data.isra.50+0xa60/0xa60
+[5646469.109209]  [<ffffffffb24a3407>] ip_local_out_sk+0x37/0x40
+[5646469.109217]  [<ffffffffb24a37a4>] ip_queue_xmit+0x144/0x3c0
+[5646469.109225]  [<ffffffffb24bde94>] tcp_transmit_skb+0x4e4/0x9e0
+[5646469.109233]  [<ffffffffb24be51a>] tcp_write_xmit+0x18a/0xd40
+[5646469.109242]  [<ffffffffb24bf35e>] __tcp_push_pending_frames+0x2e/0xc0
+[5646469.109252]  [<ffffffffb24ad3fc>] tcp_push+0xec/0x120
+[5646469.109260]  [<ffffffffb24b0e42>] tcp_sendmsg+0xd2/0xc60
+[5646469.109272]  [<ffffffffb24dd589>] inet_sendmsg+0x69/0xb0
+[5646469.109283]  [<ffffffffb210bf93>] ? selinux_socket_sendmsg+0x23/0x30
+[5646469.109290]  [<ffffffffb243357d>] sock_aio_write+0x15d/0x180
+[5646469.109301]  [<ffffffffb204d063>] do_sync_write+0x93/0xe0
+[5646469.109311]  [<ffffffffb204dc55>] vfs_write+0x1c5/0x1f0
+[5646469.109319]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.109328]  [<ffffffffb204e92f>] SyS_write+0x7f/0xf0
+[5646469.109339]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.109347]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5646469.109356]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.109364] 
+
+ src: 3.3.3.1, dst: 10.10.10.3
+[5646469.109374] 
+show saddr : 1030303, daddr 30a0a0a, hash 1394490473
+[5646469.109380] pre skb_get_hash l4_hash 1, sw_hash 0
+[5646469.109386] post skb_get_hash 1998192894, l4_hash 1, sw_hash 1
+[5646469.109391] post_handler : p->addr = 0xffffffffc0b0e170, flags = 0x246
+[5646469.109886] ixgbe_process_skb_fields name:ksoftirqd/23 pid:126, sk ffffa0cfbf3f4e00
+
+[5646469.109891] not return rx dev eno5
+[5646469.109894] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.109899] handler pre : after show : hash 882889158, l4_hash 0, sw_hash 0
+[5646469.109932] ixgbe_process_skb_fields name:ksoftirqd/23 pid:126, sk ffffa0cfbf3f4f00
+
+[5646469.109936] not return rx dev eno5
+[5646469.109939] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.109942] handler pre : after show : hash 882889158, l4_hash 0, sw_hash 0
+[5646469.110061] vxlan pre_handler : p->addr = 0xffffffffc0b6b170, ip = ffffffffc0b0e170,
+[5646469.110066] vxlan_xmit name:ksoftirqd/23 pid:126, sk ffffa0cfbf3f4e00
+
+[5646469.110074] CPU: 23 PID: 126 Comm: ksoftirqd/23 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5646469.110077] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5646469.110080] Call Trace:
+[5646469.110090]  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5646469.110096]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x1ed [kprobe_vxlan]
+[5646469.110103]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5646469.110111]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.110117]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.110123]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.110131]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5646469.110136]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5646469.110143]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.110150]  [<ffffffffc0b0e171>] ? vxlan_xmit+0x1/0xdd2 [vxlan]
+[5646469.110156]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.110161]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.110167]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5646469.110174]  [<ffffffffb1ed71f0>] ? check_preempt_curr+0x80/0xa0
+[5646469.110180]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5646469.110188]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5646469.110196]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5646469.110204]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5646469.110214]  [<ffffffffb1edab02>] ? default_wake_function+0x12/0x20
+[5646469.110223]  [<ffffffffb1ec6d3b>] ? autoremove_wake_function+0x2b/0x40
+[5646469.110227]  [<ffffffffb1ed2fd2>] ? __wake_up_common+0x82/0x120
+[5646469.110234]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5646469.110242]  [<ffffffffc0b1b844>] ovs_dp_process_packet+0x84/0x120 [openvswitch]
+[5646469.110251]  [<ffffffffc0b26674>] ? ovs_ct_update_key+0xc4/0x150 [openvswitch]
+[5646469.110258]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5646469.110265]  [<ffffffffb24c5905>] ? tcp_v4_do_rcv+0x265/0x350
+[5646469.110270]  [<ffffffffb24c7011>] ? tcp_v4_rcv+0x7f1/0x9e0
+[5646469.110277]  [<ffffffffb249eef0>] ? ip_rcv_finish+0x90/0x370
+[5646469.110282]  [<ffffffffb249f8c0>] ? ip_rcv+0x2c0/0x420
+[5646469.110290]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5646469.110298]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5646469.110304]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5646469.110309]  [<ffffffffb2455eee>] process_backlog+0xae/0x180
+[5646469.110315]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5646469.110322]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5646469.110328]  [<ffffffffb1ea4d58>] run_ksoftirqd+0x38/0x50
+[5646469.110335]  [<ffffffffb1ece674>] smpboot_thread_fn+0x144/0x1a0
+[5646469.110340]  [<ffffffffb1ece530>] ? lg_double_unlock+0x40/0x40
+[5646469.110346]  [<ffffffffb1ec5c21>] kthread+0xd1/0xe0
+[5646469.110352]  [<ffffffffb1ec5b50>] ? insert_kthread_work+0x40/0x40
+[5646469.110359]  [<ffffffffb2593df7>] ret_from_fork_nospec_begin+0x21/0x21
+[5646469.110364]  [<ffffffffb1ec5b50>] ? insert_kthread_work+0x40/0x40
+[5646469.110370] 
+
+ src: 2.2.2.2, dst: 192.168.4.3
+[5646469.110378] 
+show saddr : 2020202, daddr 304a8c0, hash 1308462103
+[5646469.110382] pre skb_get_hash l4_hash 1, sw_hash 0
+[5646469.110386] post skb_get_hash 2533631666, l4_hash 1, sw_hash 1
+[5646469.110389] post_handler : p->addr = 0xffffffffc0b0e170, flags = 0x246
+[5646469.110522] ixgbe_process_skb_fields name:swapper/2 pid:0, sk ffffa0d017794600
+
+[5646469.110530] not return rx dev eno5
+[5646469.110533] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.110537] handler pre : after show : hash 848950696, l4_hash 0, sw_hash 0
+[5646469.111568] vxlan pre_handler : p->addr = 0xffffffffc0b6b170, ip = ffffffffc0b0e170,
+[5646469.111574] vxlan_xmit name:httpd pid:10189, sk ffffa0cfae7a70f8
+
+[5646469.111584] CPU: 0 PID: 10189 Comm: httpd Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5646469.111587] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5646469.111590] Call Trace:
+[5646469.111595]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5646469.111610]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x1ed [kprobe_vxlan]
+[5646469.111649]  [<ffffffffc05da7b4>] ? ixgbe_xmit_frame+0x44/0x80 [ixgbe]
+[5646469.111656]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5646469.111664]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.111671]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.111678]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.111684]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5646469.111689]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5646469.111696]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.111704]  [<ffffffffc0b0e171>] ? vxlan_xmit+0x1/0xdd2 [vxlan]
+[5646469.111712]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.111717]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.111723]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5646469.111729]  [<ffffffffb1ea4017>] ? local_bh_enable+0x17/0x20
+[5646469.111735]  [<ffffffffb24570b5>] ? __dev_queue_xmit+0x245/0x650
+[5646469.111740]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5646469.111750]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5646469.111757]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5646469.111764]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5646469.111771]  [<ffffffffb243d6c2>] ? skb_release_data+0x132/0x140
+[5646469.111778]  [<ffffffffb243dbf4>] ? consume_skb+0x34/0x90
+[5646469.111787]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5646469.111795]  [<ffffffffc0b1b844>] ovs_dp_process_packet+0x84/0x120 [openvswitch]
+[5646469.111803]  [<ffffffffc0b26674>] ? ovs_ct_update_key+0xc4/0x150 [openvswitch]
+[5646469.111811]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5646469.111818]  [<ffffffffb1ed3b2a>] ? update_rq_clock.part.77+0x1a/0x150
+[5646469.111826]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5646469.111832]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5646469.111839]  [<ffffffffb1f58b9d>] ? rcu_advance_cbs+0xcd/0xe0
+[5646469.111845]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5646469.111851]  [<ffffffffb2455eee>] process_backlog+0xae/0x180
+[5646469.111858]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5646469.111865]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5646469.111870]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5646469.111873]  <EOI>  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5646469.111883]  [<ffffffffb1ea3feb>] __local_bh_enable_ip+0x9b/0xb0
+[5646469.111889]  [<ffffffffb1ea4017>] local_bh_enable+0x17/0x20
+[5646469.111895]  [<ffffffffb24a5064>] ip_finish_output+0x284/0x8d0
+[5646469.111900]  [<ffffffffb24a59db>] ip_output+0x7b/0xf0
+[5646469.111906]  [<ffffffffb24a4de0>] ? __ip_append_data.isra.50+0xa60/0xa60
+[5646469.111912]  [<ffffffffb24a3407>] ip_local_out_sk+0x37/0x40
+[5646469.111917]  [<ffffffffb24a37a4>] ip_queue_xmit+0x144/0x3c0
+[5646469.111923]  [<ffffffffb24bde94>] tcp_transmit_skb+0x4e4/0x9e0
+[5646469.111929]  [<ffffffffb24be51a>] tcp_write_xmit+0x18a/0xd40
+[5646469.111937]  [<ffffffffb24bf35e>] __tcp_push_pending_frames+0x2e/0xc0
+[5646469.111943]  [<ffffffffb24ad3fc>] tcp_push+0xec/0x120
+[5646469.111949]  [<ffffffffb24b0e42>] tcp_sendmsg+0xd2/0xc60
+[5646469.111957]  [<ffffffffb2113333>] ? selinux_inode_permission+0xe3/0x1b0
+[5646469.111964]  [<ffffffffb24dd589>] inet_sendmsg+0x69/0xb0
+[5646469.111969]  [<ffffffffb210bf93>] ? selinux_socket_sendmsg+0x23/0x30
+[5646469.111974]  [<ffffffffb243357d>] sock_aio_write+0x15d/0x180
+[5646469.111982]  [<ffffffffb204d12b>] do_sync_readv_writev+0x7b/0xd0
+[5646469.111989]  [<ffffffffb204ed2e>] do_readv_writev+0xce/0x260
+[5646469.111996]  [<ffffffffb1fde1bb>] ? vm_mmap_pgoff+0xeb/0x120
+[5646469.112003]  [<ffffffffb204ef55>] vfs_writev+0x35/0x60
+[5646469.112011]  [<ffffffffb204f10f>] SyS_writev+0x7f/0x110
+[5646469.112017]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.112023]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5646469.112029]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.112035] 
+
+ src: 2.2.2.2, dst: 192.168.4.3
+[5646469.112041] 
+show saddr : 2020202, daddr 304a8c0, hash 1308462103
+[5646469.112045] pre skb_get_hash l4_hash 1, sw_hash 0
+[5646469.112050] post skb_get_hash 2533631666, l4_hash 1, sw_hash 1
+[5646469.112053] post_handler : p->addr = 0xffffffffc0b0e170, flags = 0x246
+[5646469.112168] ixgbe_process_skb_fields name:swapper/2 pid:0, sk ffffa0d017794600
+
+[5646469.112176] not return rx dev eno5
+[5646469.112179] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.112182] handler pre : after show : hash 848950696, l4_hash 0, sw_hash 0
+[5646469.112310] vxlan pre_handler : p->addr = 0xffffffffc0b6b170, ip = ffffffffc0b0e170,
+[5646469.112315] vxlan_xmit name:wget pid:22890, sk ffffa0d017795300
+
+[5646469.112323] CPU: 2 PID: 22890 Comm: wget Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5646469.112326] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5646469.112329] Call Trace:
+[5646469.112333]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5646469.112348]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x1ed [kprobe_vxlan]
+[5646469.112354]  [<ffffffffb2453314>] ? netif_rx_internal+0x44/0x110
+[5646469.112360]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5646469.112370]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.112378]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.112385]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.112391]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5646469.112396]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5646469.112403]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.112410]  [<ffffffffc0b0e171>] ? vxlan_xmit+0x1/0xdd2 [vxlan]
+[5646469.112439]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.112444]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.112450]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5646469.112456]  [<ffffffffb1edab02>] ? default_wake_function+0x12/0x20
+[5646469.112464]  [<ffffffffb2063ec3>] ? pollwake+0x73/0x90
+[5646469.112469]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5646469.112479]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5646469.112485]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5646469.112492]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5646469.112514]  [<ffffffffb1ed2ba0>] ? task_rq_unlock+0x20/0x20
+[5646469.112519]  [<ffffffffb1ed316d>] ? __wake_up_sync_key+0x1d/0x20
+[5646469.112526]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5646469.112534]  [<ffffffffc0b1b844>] ovs_dp_process_packet+0x84/0x120 [openvswitch]
+[5646469.112543]  [<ffffffffc0b26674>] ? ovs_ct_update_key+0xc4/0x150 [openvswitch]
+[5646469.112551]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5646469.112560]  [<ffffffffc06e82ce>] ? ipv4_confirm+0x4e/0x100 [nf_conntrack_ipv4]
+[5646469.112566]  [<ffffffffb249f28d>] ? ip_local_deliver_finish+0xbd/0x200
+[5646469.112571]  [<ffffffffb249f580>] ? ip_local_deliver+0x60/0xe0
+[5646469.112576]  [<ffffffffb249f1d0>] ? ip_rcv_finish+0x370/0x370
+[5646469.112581]  [<ffffffffb249eef0>] ? ip_rcv_finish+0x90/0x370
+[5646469.112589]  [<ffffffffb1ee65af>] ? enqueue_entity+0x2ef/0xbe0
+[5646469.112597]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5646469.112603]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5646469.112608]  [<ffffffffb1ed7229>] ? ttwu_do_wakeup+0x19/0xe0
+[5646469.112613]  [<ffffffffb1ed735f>] ? ttwu_do_activate+0x6f/0x80
+[5646469.112618]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5646469.112623]  [<ffffffffb2455eee>] process_backlog+0xae/0x180
+[5646469.112629]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5646469.112636]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5646469.112641]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5646469.112644]  <EOI>  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5646469.112655]  [<ffffffffb1ea3feb>] __local_bh_enable_ip+0x9b/0xb0
+[5646469.112663]  [<ffffffffb1ea4017>] local_bh_enable+0x17/0x20
+[5646469.112669]  [<ffffffffb2438605>] lock_sock_nested+0x45/0x50
+[5646469.112676]  [<ffffffffb24ae293>] tcp_recvmsg+0x73/0xb30
+[5646469.112682]  [<ffffffffb210be65>] ? sock_has_perm+0x75/0x90
+[5646469.112688]  [<ffffffffb1eda830>] ? try_to_wake_up+0x190/0x390
+[5646469.112695]  [<ffffffffb24dd730>] inet_recvmsg+0x80/0xb0
+[5646469.112700]  [<ffffffffb24344f5>] sock_recvmsg+0xc5/0x100
+[5646469.112707]  [<ffffffffb204a6fa>] ? __check_object_size+0x1ca/0x250
+[5646469.112713]  [<ffffffffb2063fe4>] ? set_fd_set+0x44/0x50
+[5646469.112718]  [<ffffffffb2434668>] SYSC_recvfrom+0xe8/0x160
+[5646469.112724]  [<ffffffffb2064103>] ? poll_select_copy_remaining+0x113/0x180
+[5646469.112731]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.112739]  [<ffffffffb2593ec9>] ? system_call_after_swapgs+0x96/0x13a
+[5646469.112745]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.112750]  [<ffffffffb2593ec9>] ? system_call_after_swapgs+0x96/0x13a
+[5646469.112756]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.112761]  [<ffffffffb2593ec9>] ? system_call_after_swapgs+0x96/0x13a
+[5646469.112767]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.112772]  [<ffffffffb243661e>] SyS_recvfrom+0xe/0x10
+[5646469.112778]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5646469.112784]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.112789] 
+
+ src: 3.3.3.1, dst: 10.10.10.3
+[5646469.112795] 
+show saddr : 1030303, daddr 30a0a0a, hash 1394490473
+[5646469.112800] pre skb_get_hash l4_hash 1, sw_hash 0
+[5646469.112804] post skb_get_hash 1998192894, l4_hash 1, sw_hash 1
+[5646469.112808] post_handler : p->addr = 0xffffffffc0b0e170, flags = 0x246
+[5646469.113115] ixgbe_process_skb_fields name:swapper/23 pid:0, sk ffffa0cfbf3f4700
+
+[5646469.113122] not return rx dev eno5
+[5646469.113125] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.113129] handler pre : after show : hash 882889158, l4_hash 0, sw_hash 0
+[5646469.119551] vxlan pre_handler : p->addr = 0xffffffffc0b6b170, ip = ffffffffc0b0e170,
+[5646469.119558] vxlan_xmit name:wget pid:22890, sk ffffa0cfbbbe88f8
+
+[5646469.119566] CPU: 2 PID: 22890 Comm: wget Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5646469.119570] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5646469.119573] Call Trace:
+[5646469.119579]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5646469.119593]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x1ed [kprobe_vxlan]
+[5646469.119599]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5646469.119607]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.119614]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.119619]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.119624]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5646469.119630]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5646469.119636]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.119642]  [<ffffffffc0b0e171>] ? vxlan_xmit+0x1/0xdd2 [vxlan]
+[5646469.119648]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.119655]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.119661]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5646469.119667]  [<ffffffffb1edab02>] ? default_wake_function+0x12/0x20
+[5646469.119672]  [<ffffffffb2063ec3>] ? pollwake+0x73/0x90
+[5646469.119677]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5646469.119686]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5646469.119693]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5646469.119699]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5646469.119706]  [<ffffffffb1ed2ba0>] ? task_rq_unlock+0x20/0x20
+[5646469.119710]  [<ffffffffb1ed316d>] ? __wake_up_sync_key+0x1d/0x20
+[5646469.119717]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5646469.119726]  [<ffffffffc0b1b844>] ovs_dp_process_packet+0x84/0x120 [openvswitch]
+[5646469.119734]  [<ffffffffc0b26674>] ? ovs_ct_update_key+0xc4/0x150 [openvswitch]
+[5646469.119741]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5646469.119747]  [<ffffffffb1edfb48>] ? __enqueue_entity+0x78/0x80
+[5646469.119751]  [<ffffffffb1ee65af>] ? enqueue_entity+0x2ef/0xbe0
+[5646469.119757]  [<ffffffffb1ed735f>] ? ttwu_do_activate+0x6f/0x80
+[5646469.119762]  [<ffffffffb1eda830>] ? try_to_wake_up+0x190/0x390
+[5646469.119769]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5646469.119774]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5646469.119779]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5646469.119785]  [<ffffffffb2455eee>] process_backlog+0xae/0x180
+[5646469.119792]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5646469.119798]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5646469.119803]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5646469.119805]  <EOI>  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5646469.119815]  [<ffffffffb1ea3feb>] __local_bh_enable_ip+0x9b/0xb0
+[5646469.119820]  [<ffffffffb1ea4017>] local_bh_enable+0x17/0x20
+[5646469.119826]  [<ffffffffb24a5064>] ip_finish_output+0x284/0x8d0
+[5646469.119831]  [<ffffffffb24a59db>] ip_output+0x7b/0xf0
+[5646469.119836]  [<ffffffffb24a4de0>] ? __ip_append_data.isra.50+0xa60/0xa60
+[5646469.119841]  [<ffffffffb24a3407>] ip_local_out_sk+0x37/0x40
+[5646469.119846]  [<ffffffffb24a37a4>] ip_queue_xmit+0x144/0x3c0
+[5646469.119852]  [<ffffffffb24bde94>] tcp_transmit_skb+0x4e4/0x9e0
+[5646469.119859]  [<ffffffffb24be51a>] tcp_write_xmit+0x18a/0xd40
+[5646469.119864]  [<ffffffffb24bf35e>] __tcp_push_pending_frames+0x2e/0xc0
+[5646469.119869]  [<ffffffffb24c0ff2>] tcp_send_fin+0x62/0x190
+[5646469.119874]  [<ffffffffb24b1ec0>] tcp_close+0x3a0/0x400
+[5646469.119880]  [<ffffffffb24dbf3d>] inet_release+0x7d/0x90
+[5646469.119885]  [<ffffffffb2433765>] sock_release+0x25/0x90
+[5646469.119889]  [<ffffffffb24337e2>] sock_close+0x12/0x20
+[5646469.119896]  [<ffffffffb204fe4c>] __fput+0xec/0x230
+[5646469.119900]  [<ffffffffb205007e>] ____fput+0xe/0x10
+[5646469.119906]  [<ffffffffb1ec275b>] task_work_run+0xbb/0xe0
+[5646469.119911]  [<ffffffffb1ea1904>] do_exit+0x2d4/0xa20
+[5646469.119916]  [<ffffffffb258e678>] ? __do_page_fault+0x238/0x500
+[5646469.119922]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.119929]  [<ffffffffb1ea20cf>] do_group_exit+0x3f/0xa0
+[5646469.119934]  [<ffffffffb1ea2144>] SyS_exit_group+0x14/0x20
+[5646469.119940]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5646469.119945]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.119950] 
+
+ src: 3.3.3.1, dst: 10.10.10.3
+[5646469.119956] 
+show saddr : 1030303, daddr 30a0a0a, hash 1394490473
+[5646469.119960] pre skb_get_hash l4_hash 1, sw_hash 0
+[5646469.119964] post skb_get_hash 1998192894, l4_hash 1, sw_hash 1
+[5646469.119967] post_handler : p->addr = 0xffffffffc0b0e170, flags = 0x246
+[5646469.120248] ixgbe_process_skb_fields name:swapper/23 pid:0, sk ffffa0cfbf3f4700
+
+[5646469.120255] not return rx dev eno5
+[5646469.120258] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.120261] handler pre : after show : hash 882889158, l4_hash 0, sw_hash 0
+[5646469.120425] vxlan pre_handler : p->addr = 0xffffffffc0b6b170, ip = ffffffffc0b0e170,
+[5646469.120430] vxlan_xmit name:httpd pid:10189, sk ffffa0d000ba06f8
+
+[5646469.120438] CPU: 23 PID: 10189 Comm: httpd Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5646469.120442] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5646469.120444] Call Trace:
+[5646469.120449]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5646469.120462]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x1ed [kprobe_vxlan]
+[5646469.120469]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5646469.120477]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.120483]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.120491]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.120496]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5646469.120501]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5646469.120510]  [<ffffffffc0b1cd33>] ? ovs_flow_stats_update+0x103/0x160 [openvswitch]
+[5646469.120516]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.120522]  [<ffffffffc0b0e171>] ? vxlan_xmit+0x1/0xdd2 [vxlan]
+[5646469.120528]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.120533]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.120539]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5646469.120544]  [<ffffffffb1ed2fd2>] ? __wake_up_common+0x82/0x120
+[5646469.120549]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5646469.120557]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5646469.120566]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5646469.120573]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5646469.120580]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5646469.120587]  [<ffffffffc0b1b844>] ovs_dp_process_packet+0x84/0x120 [openvswitch]
+[5646469.120594]  [<ffffffffc0b26674>] ? ovs_ct_update_key+0xc4/0x150 [openvswitch]
+[5646469.120601]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5646469.120610]  [<ffffffffc06e82ce>] ? ipv4_confirm+0x4e/0x100 [nf_conntrack_ipv4]
+[5646469.120616]  [<ffffffffb249f28d>] ? ip_local_deliver_finish+0xbd/0x200
+[5646469.120620]  [<ffffffffb249f580>] ? ip_local_deliver+0x60/0xe0
+[5646469.120625]  [<ffffffffb249f1d0>] ? ip_rcv_finish+0x370/0x370
+[5646469.120632]  [<ffffffffb249eef0>] ? ip_rcv_finish+0x90/0x370
+[5646469.120637]  [<ffffffffb1ed3b2a>] ? update_rq_clock.part.77+0x1a/0x150
+[5646469.120644]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5646469.120650]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5646469.120655]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5646469.120660]  [<ffffffffb2455eee>] process_backlog+0xae/0x180
+[5646469.120665]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5646469.120672]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5646469.120677]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5646469.120680]  <EOI>  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5646469.120690]  [<ffffffffb1ea3feb>] __local_bh_enable_ip+0x9b/0xb0
+[5646469.120696]  [<ffffffffb1ea4017>] local_bh_enable+0x17/0x20
+[5646469.120703]  [<ffffffffb24a5064>] ip_finish_output+0x284/0x8d0
+[5646469.120708]  [<ffffffffb24a59db>] ip_output+0x7b/0xf0
+[5646469.120713]  [<ffffffffb24a4de0>] ? __ip_append_data.isra.50+0xa60/0xa60
+[5646469.120718]  [<ffffffffb24a3407>] ip_local_out_sk+0x37/0x40
+[5646469.120724]  [<ffffffffb24a37a4>] ip_queue_xmit+0x144/0x3c0
+[5646469.120729]  [<ffffffffb24bde94>] tcp_transmit_skb+0x4e4/0x9e0
+[5646469.120734]  [<ffffffffb24be51a>] tcp_write_xmit+0x18a/0xd40
+[5646469.120739]  [<ffffffffb24bf35e>] __tcp_push_pending_frames+0x2e/0xc0
+[5646469.120744]  [<ffffffffb24c0ff2>] tcp_send_fin+0x62/0x190
+[5646469.120750]  [<ffffffffb24aeda4>] tcp_shutdown+0x54/0x60
+[5646469.120756]  [<ffffffffb24dbe2c>] inet_shutdown+0x8c/0x120
+[5646469.120761]  [<ffffffffb24368c3>] SyS_shutdown+0x93/0xa0
+[5646469.120769]  [<ffffffffb2593f92>] system_call_fastpath+0x25/0x2a
+[5646469.120775]  [<ffffffffb2593ed5>] ? system_call_after_swapgs+0xa2/0x13a
+[5646469.120780] 
+
+ src: 2.2.2.2, dst: 192.168.4.3
+[5646469.120785] 
+show saddr : 2020202, daddr 304a8c0, hash 1308462103
+[5646469.120789] pre skb_get_hash l4_hash 1, sw_hash 0
+[5646469.120793] post skb_get_hash 2533631666, l4_hash 1, sw_hash 1
+[5646469.120796] post_handler : p->addr = 0xffffffffc0b0e170, flags = 0x246
+[5646469.120912] ixgbe_process_skb_fields name:swapper/2 pid:0, sk ffffa0d017794200
+
+[5646469.120918] not return rx dev eno5
+[5646469.120922] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.120925] handler pre : after show : hash 848950696, l4_hash 0, sw_hash 0
+[5646469.121023] vxlan pre_handler : p->addr = 0xffffffffc0b6b170, ip = ffffffffc0b0e170,
+[5646469.121027] vxlan_xmit name:swapper/2 pid:0, sk ffffa0d017794600
+
+[5646469.121035] CPU: 2 PID: 0 Comm: swapper/2 Kdump: loaded Tainted: G           OE  ------------   3.10.0-1160.el7.x86_64 #1
+[5646469.121038] Hardware name: IBM IBM System x3550 M4: -[7914O2R]-/00AM544, BIOS -[D7E136AUS-1.60]- 11/28/2013
+[5646469.121043] Call Trace:
+[5646469.121047]  <IRQ>  [<ffffffffb2581340>] dump_stack+0x19/0x1b
+[5646469.121061]  [<ffffffffc0b6a0cf>] handler_pre+0x7f/0x1ed [kprobe_vxlan]
+[5646469.121067]  [<ffffffffb258deda>] kprobe_ftrace_handler+0xba/0x120
+[5646469.121076]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.121082]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.121088]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.121093]  [<ffffffffb1f61cc4>] ftrace_ops_list_func+0xf4/0x120
+[5646469.121098]  [<ffffffffb2597bd4>] ftrace_regs_call+0x5/0x81
+[5646469.121105]  [<ffffffffc0b0e170>] ? vxlan_open+0x270/0x270 [vxlan]
+[5646469.121111]  [<ffffffffc0b0e171>] ? vxlan_xmit+0x1/0xdd2 [vxlan]
+[5646469.121117]  [<ffffffffc0b0e175>] ? vxlan_xmit+0x5/0xdd2 [vxlan]
+[5646469.121124]  [<ffffffffb2454386>] ? dev_hard_start_xmit+0x246/0x3b0
+[5646469.121129]  [<ffffffffb2457389>] __dev_queue_xmit+0x519/0x650
+[5646469.121135]  [<ffffffffb24574d0>] dev_queue_xmit+0x10/0x20
+[5646469.121144]  [<ffffffffc0b25336>] ovs_vport_send+0xa6/0x180 [openvswitch]
+[5646469.121151]  [<ffffffffc0b160fe>] do_output+0x4e/0xd0 [openvswitch]
+[5646469.121158]  [<ffffffffc0b17699>] do_execute_actions+0xa29/0xa40 [openvswitch]
+[5646469.121164]  [<ffffffffb24aee17>] ? tcp_done+0x67/0xa0
+[5646469.121171]  [<ffffffffc0b17aac>] ovs_execute_actions+0x4c/0x140 [openvswitch]
+[5646469.121178]  [<ffffffffc0b1b844>] ovs_dp_process_packet+0x84/0x120 [openvswitch]
+[5646469.121186]  [<ffffffffc0b26674>] ? ovs_ct_update_key+0xc4/0x150 [openvswitch]
+[5646469.121194]  [<ffffffffc0b25233>] ovs_vport_receive+0x73/0xd0 [openvswitch]
+[5646469.121201]  [<ffffffffb24c581b>] ? tcp_v4_do_rcv+0x17b/0x350
+[5646469.121206]  [<ffffffffb24c29e9>] ? sock_put+0x19/0x20
+[5646469.121211]  [<ffffffffb24c7011>] ? tcp_v4_rcv+0x7f1/0x9e0
+[5646469.121220]  [<ffffffffc06e82ce>] ? ipv4_confirm+0x4e/0x100 [nf_conntrack_ipv4]
+[5646469.121226]  [<ffffffffb249eef0>] ? ip_rcv_finish+0x90/0x370
+[5646469.121231]  [<ffffffffb249f8c0>] ? ip_rcv+0x2c0/0x420
+[5646469.121238]  [<ffffffffc0b25cde>] netdev_frame_hook+0xde/0x180 [openvswitch]
+[5646469.121243]  [<ffffffffb24546ea>] __netif_receive_skb_core+0x1fa/0xa10
+[5646469.121248]  [<ffffffffb2454f18>] ? __netif_receive_skb+0x18/0x60
+[5646469.121253]  [<ffffffffb2454f18>] __netif_receive_skb+0x18/0x60
+[5646469.121258]  [<ffffffffb2455eee>] process_backlog+0xae/0x180
+[5646469.121264]  [<ffffffffb24555bf>] net_rx_action+0x26f/0x390
+[5646469.121272]  [<ffffffffb1ea4b95>] __do_softirq+0xf5/0x280
+[5646469.121277]  [<ffffffffb25974ec>] call_softirq+0x1c/0x30
+[5646469.121282]  [<ffffffffb1e2f715>] do_softirq+0x65/0xa0
+[5646469.121287]  [<ffffffffb1ea4f15>] irq_exit+0x105/0x110
+[5646469.121292]  [<ffffffffb2598936>] do_IRQ+0x56/0xf0
+[5646469.121299]  [<ffffffffb258a36a>] common_interrupt+0x16a/0x16a
+[5646469.121301]  <EOI>  [<ffffffffb2591940>] ? kprobe_flush_task+0xd0/0x170
+[5646469.121314]  [<ffffffffb23c7054>] ? cpuidle_enter_state+0x54/0xd0
+[5646469.121319]  [<ffffffffb23c71ae>] cpuidle_idle_call+0xde/0x230
+[5646469.121325]  [<ffffffffb1e37c8e>] arch_cpu_idle+0xe/0xc0
+[5646469.121334]  [<ffffffffb1f011ea>] cpu_startup_entry+0x14a/0x1e0
+[5646469.121344]  [<ffffffffb1e5a7f7>] start_secondary+0x1f7/0x270
+[5646469.121351]  [<ffffffffb1e000d5>] start_cpu+0x5/0x14
+[5646469.121356] 
+
+ src: 3.3.3.1, dst: 10.10.10.3
+[5646469.121362] 
+show saddr : 1030303, daddr 30a0a0a, hash 1394490473
+[5646469.121366] pre skb_get_hash l4_hash 1, sw_hash 0
+[5646469.121370] post skb_get_hash 1998192894, l4_hash 1, sw_hash 1
+[5646469.121373] post_handler : p->addr = 0xffffffffc0b0e170, flags = 0x246
+[5646469.121641] ixgbe_process_skb_fields name:swapper/23 pid:0, sk ffffa0cfbf3f5800
+
+[5646469.121648] not return rx dev eno5
+[5646469.121651] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.121654] handler pre : after show : hash 882889158, l4_hash 0, sw_hash 0
+[5646469.124116] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124123] not return rx dev eno5
+[5646469.124126] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124129] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124147] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124151] not return rx dev eno5
+[5646469.124154] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124157] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124164] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124168] not return rx dev eno5
+[5646469.124170] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124173] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124180] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124184] not return rx dev eno5
+[5646469.124187] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124190] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124196] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124200] not return rx dev eno5
+[5646469.124203] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124208] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124214] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124218] not return rx dev eno5
+[5646469.124221] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124224] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124231] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124235] not return rx dev eno5
+[5646469.124238] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124240] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124247] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124251] not return rx dev eno5
+[5646469.124254] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124256] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124263] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124267] not return rx dev eno5
+[5646469.124270] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124275] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124281] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124285] not return rx dev eno5
+[5646469.124288] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124291] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124297] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124301] not return rx dev eno5
+[5646469.124304] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124307] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124313] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124317] not return rx dev eno5
+[5646469.124319] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124322] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124329] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124332] not return rx dev eno5
+[5646469.124336] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124338] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124348] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124352] not return rx dev eno5
+[5646469.124354] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124357] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124363] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124367] not return rx dev eno5
+[5646469.124370] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124373] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124379] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124383] not return rx dev eno5
+[5646469.124385] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124388] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124395] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124399] not return rx dev eno5
+[5646469.124401] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124404] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124410] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124414] not return rx dev eno5
+[5646469.124417] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124420] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124426] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.124433] not return rx dev eno5
+[5646469.124435] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.124438] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.596272] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ed00
+
+[5646469.596280] not return rx dev eno5
+[5646469.596283] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.596287] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.694102] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9ec00
+
+[5646469.694110] not return rx dev eno5
+[5646469.694114] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.694117] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990433] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990440] not return rx dev eno5
+[5646469.990444] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990446] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990468] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990472] not return rx dev eno5
+[5646469.990475] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990478] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990485] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990489] not return rx dev eno5
+[5646469.990492] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990495] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990501] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990505] not return rx dev eno5
+[5646469.990508] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990511] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990517] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990521] not return rx dev eno5
+[5646469.990524] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990527] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990533] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990537] not return rx dev eno5
+[5646469.990540] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990542] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990549] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990553] not return rx dev eno5
+[5646469.990555] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990558] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990564] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990568] not return rx dev eno5
+[5646469.990571] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990573] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990580] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990584] not return rx dev eno5
+[5646469.990586] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990589] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990595] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990599] not return rx dev eno5
+[5646469.990602] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990604] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990611] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990615] not return rx dev eno5
+[5646469.990617] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990620] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990626] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990630] not return rx dev eno5
+[5646469.990633] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990635] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990642] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990646] not return rx dev eno5
+[5646469.990648] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990651] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990657] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990661] not return rx dev eno5
+[5646469.990664] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990666] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990673] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990677] not return rx dev eno5
+[5646469.990679] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990682] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990688] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990692] not return rx dev eno5
+[5646469.990695] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990697] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990704] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90f00
+
+[5646469.990707] not return rx dev eno5
+[5646469.990710] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646469.990713] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125849] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.125857] not return rx dev eno5
+[5646470.125860] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125864] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125885] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.125890] not return rx dev eno5
+[5646470.125893] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125896] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125903] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.125908] not return rx dev eno5
+[5646470.125911] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125914] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125921] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.125925] not return rx dev eno5
+[5646470.125928] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125931] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125938] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.125942] not return rx dev eno5
+[5646470.125945] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125948] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125955] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.125959] not return rx dev eno5
+[5646470.125962] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125965] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125972] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.125976] not return rx dev eno5
+[5646470.125979] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125982] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125988] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.125993] not return rx dev eno5
+[5646470.125995] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.125998] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126005] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.126009] not return rx dev eno5
+[5646470.126012] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126015] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126022] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.126026] not return rx dev eno5
+[5646470.126029] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126032] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126038] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.126043] not return rx dev eno5
+[5646470.126045] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126048] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126055] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.126059] not return rx dev eno5
+[5646470.126062] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126065] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126072] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.126076] not return rx dev eno5
+[5646470.126079] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126082] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126088] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.126093] not return rx dev eno5
+[5646470.126095] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126098] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126105] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.126109] not return rx dev eno5
+[5646470.126112] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126115] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126122] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.126126] not return rx dev eno5
+[5646470.126129] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126132] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126140] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.126144] not return rx dev eno5
+[5646470.126147] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126150] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126157] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.126161] not return rx dev eno5
+[5646470.126164] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126167] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126173] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d03dfb9400
+
+[5646470.126178] not return rx dev eno5
+[5646470.126181] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.126183] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.377861] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ac400
+
+[5646470.377869] not return rx dev eno5
+[5646470.377873] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.377876] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.597948] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d02fb90900
+
+[5646470.597956] not return rx dev eno5
+[5646470.597960] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.597963] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992717] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992724] not return rx dev eno5
+[5646470.992728] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992731] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992752] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992757] not return rx dev eno5
+[5646470.992760] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992763] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992770] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992775] not return rx dev eno5
+[5646470.992778] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992780] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992788] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992792] not return rx dev eno5
+[5646470.992795] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992798] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992805] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992809] not return rx dev eno5
+[5646470.992812] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992815] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992822] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992826] not return rx dev eno5
+[5646470.992829] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992832] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992839] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992843] not return rx dev eno5
+[5646470.992846] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992849] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992855] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992860] not return rx dev eno5
+[5646470.992862] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992865] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992872] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992876] not return rx dev eno5
+[5646470.992879] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992882] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992889] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992893] not return rx dev eno5
+[5646470.992896] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992899] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992906] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992910] not return rx dev eno5
+[5646470.992913] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992916] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992924] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992929] not return rx dev eno5
+[5646470.992932] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992935] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992941] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992946] not return rx dev eno5
+[5646470.992949] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992951] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992958] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992962] not return rx dev eno5
+[5646470.992965] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992968] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992975] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992979] not return rx dev eno5
+[5646470.992982] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992985] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.992992] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.992996] not return rx dev eno5
+[5646470.992999] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.993002] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646470.993008] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ace00
+
+[5646470.993013] not return rx dev eno5
+[5646470.993015] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646470.993018] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128172] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128180] not return rx dev eno5
+[5646471.128183] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128187] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128208] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128213] not return rx dev eno5
+[5646471.128216] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128219] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128227] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128231] not return rx dev eno5
+[5646471.128234] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128237] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128244] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128248] not return rx dev eno5
+[5646471.128251] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128254] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128261] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128265] not return rx dev eno5
+[5646471.128268] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128271] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128278] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128283] not return rx dev eno5
+[5646471.128285] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128288] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128295] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128300] not return rx dev eno5
+[5646471.128303] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128305] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128312] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128316] not return rx dev eno5
+[5646471.128319] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128322] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128329] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128333] not return rx dev eno5
+[5646471.128336] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128339] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128346] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128350] not return rx dev eno5
+[5646471.128353] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128356] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128364] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128369] not return rx dev eno5
+[5646471.128372] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128374] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128382] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128386] not return rx dev eno5
+[5646471.128389] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128392] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128398] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128403] not return rx dev eno5
+[5646471.128406] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128408] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128415] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128419] not return rx dev eno5
+[5646471.128422] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128425] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128432] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128436] not return rx dev eno5
+[5646471.128439] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128442] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128449] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128453] not return rx dev eno5
+[5646471.128456] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128459] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128465] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128470] not return rx dev eno5
+[5646471.128473] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128475] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128482] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128486] not return rx dev eno5
+[5646471.128489] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128492] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128499] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97b8e800
+
+[5646471.128503] not return rx dev eno5
+[5646471.128506] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.128509] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.244016] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d01c3cbc00
+
+[5646471.244024] not return rx dev eno5
+[5646471.244027] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.244031] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.455074] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad200
+
+[5646471.455095] not return rx dev eno5
+[5646471.455098] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.455101] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.599134] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23aca00
+
+[5646471.599154] not return rx dev eno5
+[5646471.599157] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.599160] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.696610] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad200
+
+[5646471.696630] not return rx dev eno5
+[5646471.696633] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.696636] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.696681] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23ad200
+
+[5646471.696685] not return rx dev eno5
+[5646471.696688] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.696691] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.696711] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23ad200
+
+[5646471.696715] not return rx dev eno5
+[5646471.696718] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.696721] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.696786] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23add00
+
+[5646471.696790] not return rx dev eno5
+[5646471.696793] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.696796] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.696863] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23add00
+
+[5646471.696867] not return rx dev eno5
+[5646471.696869] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.696872] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.696935] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23ac700
+
+[5646471.696938] not return rx dev eno5
+[5646471.696941] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.696944] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697011] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23ac700
+
+[5646471.697015] not return rx dev eno5
+[5646471.697018] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697021] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697087] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23adb00
+
+[5646471.697091] not return rx dev eno5
+[5646471.697094] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697097] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697162] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23aca00
+
+[5646471.697166] not return rx dev eno5
+[5646471.697169] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697171] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697256] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23ad800
+
+[5646471.697261] not return rx dev eno5
+[5646471.697264] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697279] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697310] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23ad800
+
+[5646471.697314] not return rx dev eno5
+[5646471.697317] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697320] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697384] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23acb00
+
+[5646471.697388] not return rx dev eno5
+[5646471.697391] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697394] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697458] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23acb00
+
+[5646471.697462] not return rx dev eno5
+[5646471.697465] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697468] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697531] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23ac900
+
+[5646471.697536] not return rx dev eno5
+[5646471.697539] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697542] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697605] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23acc00
+
+[5646471.697609] not return rx dev eno5
+[5646471.697612] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697615] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697679] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23acc00
+
+[5646471.697683] not return rx dev eno5
+[5646471.697686] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697689] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697753] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa23adf00
+
+[5646471.697757] not return rx dev eno5
+[5646471.697760] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646471.697764] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130514] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130522] not return rx dev eno5
+[5646472.130526] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130529] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130551] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130555] not return rx dev eno5
+[5646472.130559] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130562] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130569] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130574] not return rx dev eno5
+[5646472.130577] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130580] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130588] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130593] not return rx dev eno5
+[5646472.130595] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130598] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130605] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130610] not return rx dev eno5
+[5646472.130612] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130615] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130622] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130626] not return rx dev eno5
+[5646472.130629] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130632] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130639] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130643] not return rx dev eno5
+[5646472.130646] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130649] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130656] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130660] not return rx dev eno5
+[5646472.130663] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130666] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130672] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130677] not return rx dev eno5
+[5646472.130680] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130682] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130689] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130693] not return rx dev eno5
+[5646472.130696] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130699] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130706] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130710] not return rx dev eno5
+[5646472.130713] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130716] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130722] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130727] not return rx dev eno5
+[5646472.130729] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130732] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130739] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130743] not return rx dev eno5
+[5646472.130746] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130749] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130756] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130760] not return rx dev eno5
+[5646472.130763] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130766] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130772] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130777] not return rx dev eno5
+[5646472.130780] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130783] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130789] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130794] not return rx dev eno5
+[5646472.130797] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130800] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130807] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130811] not return rx dev eno5
+[5646472.130814] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130816] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130823] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130827] not return rx dev eno5
+[5646472.130830] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130833] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130840] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fb00
+
+[5646472.130844] not return rx dev eno5
+[5646472.130847] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.130850] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.382880] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23aca00
+
+[5646472.382888] not return rx dev eno5
+[5646472.382891] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.382894] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537382] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d01c3cb300
+
+[5646472.537402] not return rx dev eno5
+[5646472.537406] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537409] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537446] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3cb300
+
+[5646472.537450] not return rx dev eno5
+[5646472.537453] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537455] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537462] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3cb300
+
+[5646472.537466] not return rx dev eno5
+[5646472.537468] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537471] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537549] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3cb000
+
+[5646472.537553] not return rx dev eno5
+[5646472.537556] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537558] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537581] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3ca200
+
+[5646472.537585] not return rx dev eno5
+[5646472.537588] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537590] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537655] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3ca200
+
+[5646472.537659] not return rx dev eno5
+[5646472.537662] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537665] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537704] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3ca200
+
+[5646472.537708] not return rx dev eno5
+[5646472.537711] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537714] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537757] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3cab00
+
+[5646472.537761] not return rx dev eno5
+[5646472.537764] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537766] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537808] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3cab00
+
+[5646472.537812] not return rx dev eno5
+[5646472.537815] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537818] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537864] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3cb700
+
+[5646472.537868] not return rx dev eno5
+[5646472.537871] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537874] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537916] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3cb700
+
+[5646472.537920] not return rx dev eno5
+[5646472.537923] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537926] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537969] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3cb700
+
+[5646472.537973] not return rx dev eno5
+[5646472.537976] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.537978] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.538035] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3cbd00
+
+[5646472.538039] not return rx dev eno5
+[5646472.538042] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.538045] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.538087] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3cbd00
+
+[5646472.538091] not return rx dev eno5
+[5646472.538094] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.538097] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.538145] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3cba00
+
+[5646472.538149] not return rx dev eno5
+[5646472.538151] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.538154] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.538204] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3cba00
+
+[5646472.538208] not return rx dev eno5
+[5646472.538225] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.538228] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.538251] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0d01c3cba00
+
+[5646472.538255] not return rx dev eno5
+[5646472.538258] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.538261] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.600383] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d01c3cb300
+
+[5646472.600391] not return rx dev eno5
+[5646472.600395] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.600398] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.692656] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d01c3cac00
+
+[5646472.692664] not return rx dev eno5
+[5646472.692668] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.692671] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995718] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995726] not return rx dev eno5
+[5646472.995730] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995733] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995755] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995760] not return rx dev eno5
+[5646472.995763] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995766] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995773] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995778] not return rx dev eno5
+[5646472.995781] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995784] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995791] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995795] not return rx dev eno5
+[5646472.995798] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995801] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995808] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995812] not return rx dev eno5
+[5646472.995815] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995818] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995825] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995829] not return rx dev eno5
+[5646472.995832] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995835] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995842] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995846] not return rx dev eno5
+[5646472.995849] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995852] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995859] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995864] not return rx dev eno5
+[5646472.995866] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995869] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995876] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995881] not return rx dev eno5
+[5646472.995883] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995886] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995893] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995897] not return rx dev eno5
+[5646472.995900] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995903] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995910] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995914] not return rx dev eno5
+[5646472.995917] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995920] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995927] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995931] not return rx dev eno5
+[5646472.995934] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995937] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995945] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995949] not return rx dev eno5
+[5646472.995952] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995955] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995961] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995966] not return rx dev eno5
+[5646472.995968] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995971] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995978] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995982] not return rx dev eno5
+[5646472.995985] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995988] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.995995] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.995999] not return rx dev eno5
+[5646472.996002] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.996005] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646472.996011] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bedf00
+
+[5646472.996016] not return rx dev eno5
+[5646472.996018] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646472.996021] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.123911] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.123919] not return rx dev eno5
+[5646473.123922] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.123925] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.123947] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.123951] not return rx dev eno5
+[5646473.123954] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.123957] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.123965] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.123969] not return rx dev eno5
+[5646473.123972] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.123975] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.123982] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.123986] not return rx dev eno5
+[5646473.123989] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.123992] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.123999] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124004] not return rx dev eno5
+[5646473.124006] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124009] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124016] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124021] not return rx dev eno5
+[5646473.124024] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124027] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124034] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124038] not return rx dev eno5
+[5646473.124041] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124044] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124051] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124055] not return rx dev eno5
+[5646473.124058] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124061] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124067] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124072] not return rx dev eno5
+[5646473.124074] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124077] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124084] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124088] not return rx dev eno5
+[5646473.124091] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124094] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124101] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124105] not return rx dev eno5
+[5646473.124108] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124111] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124119] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124123] not return rx dev eno5
+[5646473.124126] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124129] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124135] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124140] not return rx dev eno5
+[5646473.124142] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124145] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124152] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124156] not return rx dev eno5
+[5646473.124159] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124162] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124169] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124173] not return rx dev eno5
+[5646473.124176] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124179] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124186] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124190] not return rx dev eno5
+[5646473.124193] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124196] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124202] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124207] not return rx dev eno5
+[5646473.124210] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124212] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124219] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124223] not return rx dev eno5
+[5646473.124226] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124229] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124236] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9fe00
+
+[5646473.124240] not return rx dev eno5
+[5646473.124243] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.124246] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.384750] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bec500
+
+[5646473.384758] not return rx dev eno5
+[5646473.384761] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.384765] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.384786] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4bec500
+
+[5646473.384791] not return rx dev eno5
+[5646473.384794] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.384797] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.384824] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bec500
+
+[5646473.384829] not return rx dev eno5
+[5646473.384832] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.384835] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.384854] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bec500
+
+[5646473.384858] not return rx dev eno5
+[5646473.384861] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.384864] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.384973] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bedc00
+
+[5646473.384977] not return rx dev eno5
+[5646473.384981] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.384984] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.384992] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bedc00
+
+[5646473.384996] not return rx dev eno5
+[5646473.384999] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385002] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385031] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bedc00
+
+[5646473.385034] not return rx dev eno5
+[5646473.385037] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385040] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385080] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bedc00
+
+[5646473.385084] not return rx dev eno5
+[5646473.385087] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385090] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385153] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bedc00
+
+[5646473.385158] not return rx dev eno5
+[5646473.385161] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385164] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385206] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bece00
+
+[5646473.385210] not return rx dev eno5
+[5646473.385212] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385215] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385221] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bece00
+
+[5646473.385225] not return rx dev eno5
+[5646473.385228] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385231] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385284] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bec200
+
+[5646473.385288] not return rx dev eno5
+[5646473.385290] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385293] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385341] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bec200
+
+[5646473.385358] not return rx dev eno5
+[5646473.385361] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385364] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385394] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bed100
+
+[5646473.385398] not return rx dev eno5
+[5646473.385400] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385403] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385458] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bed500
+
+[5646473.385462] not return rx dev eno5
+[5646473.385465] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385468] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385492] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bed500
+
+[5646473.385496] not return rx dev eno5
+[5646473.385499] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385502] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385524] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cfa4bed500
+
+[5646473.385528] not return rx dev eno5
+[5646473.385531] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.385534] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.601525] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ada00
+
+[5646473.601533] not return rx dev eno5
+[5646473.601536] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.601540] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.693621] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ad200
+
+[5646473.693629] not return rx dev eno5
+[5646473.693633] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.693636] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.781996] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa23ada00
+
+[5646473.782004] not return rx dev eno5
+[5646473.782007] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.782010] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998094] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998102] not return rx dev eno5
+[5646473.998105] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998108] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998131] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998135] not return rx dev eno5
+[5646473.998138] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998142] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998149] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998154] not return rx dev eno5
+[5646473.998157] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998160] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998167] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998171] not return rx dev eno5
+[5646473.998174] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998177] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998185] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998189] not return rx dev eno5
+[5646473.998192] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998195] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998202] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998206] not return rx dev eno5
+[5646473.998209] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998212] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998219] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998223] not return rx dev eno5
+[5646473.998226] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998229] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998236] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998240] not return rx dev eno5
+[5646473.998243] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998246] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998252] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998257] not return rx dev eno5
+[5646473.998259] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998262] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998269] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998273] not return rx dev eno5
+[5646473.998276] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998279] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998286] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998290] not return rx dev eno5
+[5646473.998293] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998296] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998303] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998307] not return rx dev eno5
+[5646473.998310] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998314] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998321] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998325] not return rx dev eno5
+[5646473.998328] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998331] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998337] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998342] not return rx dev eno5
+[5646473.998345] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998347] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998354] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998358] not return rx dev eno5
+[5646473.998361] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998364] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998371] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998375] not return rx dev eno5
+[5646473.998378] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998381] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998388] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9f300
+
+[5646473.998392] not return rx dev eno5
+[5646473.998395] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646473.998397] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125562] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125570] not return rx dev eno5
+[5646474.125573] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125577] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125598] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125603] not return rx dev eno5
+[5646474.125605] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125608] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125616] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125620] not return rx dev eno5
+[5646474.125623] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125626] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125634] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125639] not return rx dev eno5
+[5646474.125642] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125644] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125651] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125656] not return rx dev eno5
+[5646474.125659] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125661] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125668] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125672] not return rx dev eno5
+[5646474.125675] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125678] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125685] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125689] not return rx dev eno5
+[5646474.125692] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125695] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125702] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125706] not return rx dev eno5
+[5646474.125709] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125711] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125718] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125722] not return rx dev eno5
+[5646474.125725] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125728] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125735] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125739] not return rx dev eno5
+[5646474.125742] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125745] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125752] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125756] not return rx dev eno5
+[5646474.125759] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125762] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125769] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125773] not return rx dev eno5
+[5646474.125776] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125779] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125786] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125790] not return rx dev eno5
+[5646474.125793] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125796] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125802] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125807] not return rx dev eno5
+[5646474.125810] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125813] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125819] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125823] not return rx dev eno5
+[5646474.125826] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125829] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125836] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125840] not return rx dev eno5
+[5646474.125843] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125846] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125852] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125856] not return rx dev eno5
+[5646474.125859] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125862] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125869] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125873] not return rx dev eno5
+[5646474.125876] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125879] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125885] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9eb00
+
+[5646474.125890] not return rx dev eno5
+[5646474.125892] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.125895] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.386813] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf893dc700
+
+[5646474.386821] not return rx dev eno5
+[5646474.386825] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.386828] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.386849] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf893dc700
+
+[5646474.386854] not return rx dev eno5
+[5646474.386857] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.386860] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.386868] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf893dc700
+
+[5646474.386872] not return rx dev eno5
+[5646474.386875] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.386878] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.386894] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf893dc700
+
+[5646474.386898] not return rx dev eno5
+[5646474.386901] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.386904] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.386959] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cf893dc700
+
+[5646474.386963] not return rx dev eno5
+[5646474.386966] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.386969] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387025] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cf893dd500
+
+[5646474.387030] not return rx dev eno5
+[5646474.387033] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387036] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387094] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cf893dd500
+
+[5646474.387098] not return rx dev eno5
+[5646474.387101] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387104] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387135] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cf893dd500
+
+[5646474.387139] not return rx dev eno5
+[5646474.387142] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387145] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387200] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cf893dd500
+
+[5646474.387204] not return rx dev eno5
+[5646474.387207] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387210] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387250] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cf893dd500
+
+[5646474.387254] not return rx dev eno5
+[5646474.387257] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387260] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387320] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cf893dd900
+
+[5646474.387324] not return rx dev eno5
+[5646474.387327] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387330] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387380] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cf893dd900
+
+[5646474.387384] not return rx dev eno5
+[5646474.387387] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387390] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387437] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cf893dd600
+
+[5646474.387441] not return rx dev eno5
+[5646474.387444] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387447] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387503] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cf893dd600
+
+[5646474.387507] not return rx dev eno5
+[5646474.387510] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387513] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387568] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cf893dd000
+
+[5646474.387573] not return rx dev eno5
+[5646474.387576] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387579] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387605] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cf893dd000
+
+[5646474.387609] not return rx dev eno5
+[5646474.387612] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387615] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387666] ixgbe_process_skb_fields name:systemd-journal pid:642, sk ffffa0cf893dd000
+
+[5646474.387670] not return rx dev eno5
+[5646474.387673] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.387676] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.602701] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d01c3cbd00
+
+[5646474.602709] not return rx dev eno5
+[5646474.602713] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.602716] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646474.695697] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0d01c3cbb00
+
+[5646474.695705] not return rx dev eno5
+[5646474.695709] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646474.695712] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000438] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000446] not return rx dev eno5
+[5646475.000450] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000453] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000475] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000480] not return rx dev eno5
+[5646475.000483] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000486] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000493] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000498] not return rx dev eno5
+[5646475.000501] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000504] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000510] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000515] not return rx dev eno5
+[5646475.000518] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000521] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000527] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000532] not return rx dev eno5
+[5646475.000534] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000537] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000544] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000548] not return rx dev eno5
+[5646475.000551] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000554] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000561] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000565] not return rx dev eno5
+[5646475.000568] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000571] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000577] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000582] not return rx dev eno5
+[5646475.000585] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000587] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000594] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000598] not return rx dev eno5
+[5646475.000601] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000604] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000611] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000615] not return rx dev eno5
+[5646475.000618] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000621] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000627] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000632] not return rx dev eno5
+[5646475.000634] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000637] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000644] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000648] not return rx dev eno5
+[5646475.000651] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000654] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000661] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000665] not return rx dev eno5
+[5646475.000668] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000671] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000678] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000683] not return rx dev eno5
+[5646475.000686] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000688] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000695] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000699] not return rx dev eno5
+[5646475.000702] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000705] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000712] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000716] not return rx dev eno5
+[5646475.000719] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000722] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000728] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cf97f9e600
+
+[5646475.000733] not return rx dev eno5
+[5646475.000736] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.000739] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.127887] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.127895] not return rx dev eno5
+[5646475.127899] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.127902] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.127924] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.127929] not return rx dev eno5
+[5646475.127932] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.127935] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.127942] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.127947] not return rx dev eno5
+[5646475.127949] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.127952] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.127960] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.127964] not return rx dev eno5
+[5646475.127967] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.127970] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.127977] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.127981] not return rx dev eno5
+[5646475.127984] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.127987] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.127994] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.127998] not return rx dev eno5
+[5646475.128001] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128004] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128011] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.128015] not return rx dev eno5
+[5646475.128018] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128021] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128028] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.128032] not return rx dev eno5
+[5646475.128035] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128037] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128044] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.128049] not return rx dev eno5
+[5646475.128051] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128054] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128061] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.128065] not return rx dev eno5
+[5646475.128068] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128071] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128078] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.128082] not return rx dev eno5
+[5646475.128085] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128088] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128095] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.128099] not return rx dev eno5
+[5646475.128102] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128105] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128113] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.128117] not return rx dev eno5
+[5646475.128120] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128123] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128130] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.128134] not return rx dev eno5
+[5646475.128137] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128140] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128146] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.128150] not return rx dev eno5
+[5646475.128153] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128156] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128163] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.128167] not return rx dev eno5
+[5646475.128170] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128173] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128180] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.128184] not return rx dev eno5
+[5646475.128187] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128190] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128197] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.128201] not return rx dev eno5
+[5646475.128204] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128207] handler pre : after show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128214] ixgbe_process_skb_fields name:swapper/0 pid:0, sk ffffa0cfa4becd00
+
+[5646475.128218] not return rx dev eno5
+[5646475.128221] handler pre : before show : hash 0, l4_hash 0, sw_hash 0
+[5646475.128224] handler pre : after show : hash 0, l4_hash 0, sw_hash 0

@@ -1,0 +1,3 @@
+[5637520.580697] kprobe at ffffffffc05d1290 unregister
+[5639234.116273] device eno5 left promiscuous mode
+[5639538.574413] Planted kprobe at ffffffffc05d1290
